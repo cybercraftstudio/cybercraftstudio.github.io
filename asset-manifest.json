@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cybercraftstudio.github.io/static/css/main.39a5da72.chunk.css",
+    "main.js": "/cybercraftstudio.github.io/static/js/main.fb0931ea.chunk.js",
+    "main.js.map": "/cybercraftstudio.github.io/static/js/main.fb0931ea.chunk.js.map",
+    "runtime-main.js": "/cybercraftstudio.github.io/static/js/runtime-main.382c5579.js",
+    "runtime-main.js.map": "/cybercraftstudio.github.io/static/js/runtime-main.382c5579.js.map",
+    "static/css/2.fdf5d512.chunk.css": "/cybercraftstudio.github.io/static/css/2.fdf5d512.chunk.css",
+    "static/js/2.1e934ef6.chunk.js": "/cybercraftstudio.github.io/static/js/2.1e934ef6.chunk.js",
+    "static/js/2.1e934ef6.chunk.js.map": "/cybercraftstudio.github.io/static/js/2.1e934ef6.chunk.js.map",
+    "static/js/3.7b227200.chunk.js": "/cybercraftstudio.github.io/static/js/3.7b227200.chunk.js",
+    "static/js/3.7b227200.chunk.js.map": "/cybercraftstudio.github.io/static/js/3.7b227200.chunk.js.map",
+    "index.html": "/cybercraftstudio.github.io/index.html",
+    "static/css/2.fdf5d512.chunk.css.map": "/cybercraftstudio.github.io/static/css/2.fdf5d512.chunk.css.map",
+    "static/css/main.39a5da72.chunk.css.map": "/cybercraftstudio.github.io/static/css/main.39a5da72.chunk.css.map",
+    "static/js/2.1e934ef6.chunk.js.LICENSE.txt": "/cybercraftstudio.github.io/static/js/2.1e934ef6.chunk.js.LICENSE.txt",
+    "static/media/NotFound.67759b40.png": "/cybercraftstudio.github.io/static/media/NotFound.67759b40.png",
+    "static/media/Startup.5ecdcbf5.png": "/cybercraftstudio.github.io/static/media/Startup.5ecdcbf5.png",
+    "static/media/portfolioHero.bd16fbc2.png": "/cybercraftstudio.github.io/static/media/portfolioHero.bd16fbc2.png",
+    "static/media/team.917072ad.png": "/cybercraftstudio.github.io/static/media/team.917072ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.382c5579.js",
+    "static/css/2.fdf5d512.chunk.css",
+    "static/js/2.1e934ef6.chunk.js",
+    "static/css/main.39a5da72.chunk.css",
+    "static/js/main.fb0931ea.chunk.js"
+  ]
+}
