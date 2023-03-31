@@ -1,0 +1,154 @@
+<div
+  class="modal fade"
+  id="newsletterModal"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog mod-newsletter" role="document">
+    <div class="modal-content newsletter-modal">
+      <a
+        href="javascript:"
+        class="newsletter-modal--close cl-black p-2"
+        data-dismiss="modal"
+        aria-label="Close"
+      >
+        <svg class="svg-icon"><use xlink:href="#icon-close"></use></svg>
+      </a>
+      <div class="newsletter-modal--inner">
+        <div class="editor-content mb-4">
+          <h2 style="text-align: center;">Stay Tuned</h2>
+          <p style="text-align: center;">
+            Get the latest content and best deals in your inbox!
+          </p>
+        </div>
+        <div class="newsletter-modal--form newsletter-form">
+          <div class="hbspt-form" data-hs-forms-root="true">
+            <div
+              class="hs-form-iframe"
+              style="position: static; border: none; display: block; overflow: hidden; width: 100%; height: 252px;"
+            >
+              <form
+                accept-charset="UTF-8"
+                class="hs-form-private  hs-form stacked hs-custom-style"
+                id="subscription-form"
+              >
+                <div
+                  class="hs_email hs-email hs-fieldtype-text field hs-form-field"
+                >
+                  <div class="input">
+                    <input
+                      name="your-email"
+                      placeholder="Type your email*"
+                      type="email"
+                      class="hs-input"
+                      inputmode="email"
+                      autocomplete="email"
+                      value=""
+                      required
+                    />
+                  </div>
+                </div>
+                <div class="legal-consent-container">
+                  <div class="hs-richtext">
+                    <p>
+                      By signing up to receive our newsletter, you agree to our
+                      <a href="/privacy-policy/" target="_blank" rel="noopener"
+                        >Privacy Policy</a
+                      >. You can unsubscribe at anytime.&nbsp;
+                    </p>
+                  </div>
+                  <div>
+                    <div class="hs-dependent-field">
+                      <div class="field hs-form-field">
+                        <div class="input">
+                          <ul class="inputs-list" required="">
+                            <li class="hs-form-booleancheckbox">
+                              <label
+                                for="legal_consent"
+                                class="hs-form-booleancheckbox-display"
+                                ><input
+                                  id="legal_consent"
+                                  class="hs-input"
+                                  type="checkbox"
+                                  name="legal_consent"
+                                  value="true"
+                                  checked
+                                /><span
+                                  ><p>
+                                    I agree to receive newsletters from Cyber
+                                    Crafts Solutions
+                                  </p>
+                                  <span class="hs-form-required">*</span></span
+                                ></label
+                              >
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                    <legend
+                      class="hs-field-desc checkbox-desc"
+                      style="display: none;"
+                    ></legend>
+                  </div>
+                </div>
+                <div class="hs_submit hs-submit">
+                  <div class="hs-field-desc" style="display: none;"></div>
+                  <div>
+                    <input
+                      type="submit"
+                      class="hs-button primary large"
+                      value="Subscribe"
+                    />
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<input
+  class="dynamicFormFieldValue"
+  data-id="pageUrl"
+  type="hidden"
+  value="{{ site.baseurl }}"
+/>
+
+<script type="text/javascript">
+  window.addEventListener(
+    "load",
+    function() {
+      var subscriptionForm = document.getElementById("subscription-form");
+      subscriptionForm.addEventListener("submit", function(event) {
+        event.preventDefault();
+        var template_params = {
+          from_name:
+            subscriptionForm.elements["your-email"].value +
+            "-(wants to subscribe)",
+          to_name: "{{ site.data.integration.emailjs.to_name }}",
+          message: subscriptionForm.elements["your-email"].value
+        };
+        emailjs
+          .send(
+            "{{ site.data.integration.emailjs.service_id }}",
+            "{{ site.data.integration.emailjs.template_id }}",
+            template_params,
+            "{{ site.data.integration.emailjs.public_key }}"
+          )
+          .then(
+            function() {
+              window.location.href = "/thank-you-for-submission"; //relative to domain
+            },
+            function(error) {
+              window.location.href = "/404"; //relative to domain
+            }
+          );
+      });
+    },
+    false
+  );
+</script>

@@ -1,0 +1,105 @@
+<!-- Testimonials slider -->
+{% if '/' == page.url%}
+<section class="sec-testimonials py-5 bg-grey-2">
+  <h2 class="sr-only">Testimonials</h2>
+  <div data-aos="fade-up" data-aos-delay="250" class="container py-lg-3">
+    <div
+      data-aos="fade-up"
+      data-aos-delay="500"
+      class="testimonials-slider testimonialsSliderSimple"
+    >
+      <div class="swiper-container">
+        <div class="swiper-wrapper">
+          {% assign testimonials = site.data.testimonials | sort: 'weight' %} {%
+          for testimonial in testimonials %}
+          <div class="swiper-slide">
+            <div class="testi-slide text-center cl-black">
+              <div class="row justify-content-center">
+                <div class="col-md-10 col-xl-8">
+                  <div class="testi-slide--img mb-3">
+                    <img
+                      width="{{ testimonial.image.width }}"
+                      height="{{ testimonial.image.height }}"
+                      class="mw-100 lazyload lazy-fade"
+                      style="aspect-ratio: {{ testimonial.image.aspect_ratio }}"
+                      data-src="{{ testimonial.image.logo_url | relative_url }}"
+                      alt="Testimony company's logo"
+                    />
+                  </div>
+                  <div class="row justify-content-center">
+                    <div class="col-md-8 col-xl-6">
+                      <hr class="ss-hr m-0" />
+                      <hr class="ss-hr m-0" />
+                    </div>
+                  </div>
+                  <blockquote class="testi-slide--quote txt-ttl-2 py-4 mb-0">
+                    {{ testimonial.description }}
+                  </blockquote>
+                  <div class="row justify-content-center mb-3">
+                    <div class="col-md-8 col-xl-6">
+                      <div class="testi-slide--quote-arrow"></div>
+                    </div>
+                  </div>
+                  <div class="txt-body-3 fw-500 pt-2">
+                    {{ testimonial.title }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <div
+          class="slider--dots testimonialsSliderSimpleDots text-center pt-5"
+        ></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% else %}
+<div
+  data-aos="fade-up"
+  data-aos-delay="500"
+  class="testimonials-slider pt-md-3 testimonialsSliderSimple"
+>
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      {% assign testimonials = site.data.testimonials | sort: 'weight' %} {% for
+      testimonial in testimonials %}
+      <div class="swiper-slide">
+        <div class="testi-slide text-center cl-black">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="testi-slide--img mb-3">
+                <img
+                  width="{{ testimonial.image.width }}"
+                  height="{{ testimonial.image.height }}"
+                  class="mw-100 lazyload lazy-fade"
+                  style="aspect-ratio: {{ testimonial.image.aspect_ratio }}"
+                  data-src="{{ testimonial.image.logo_url | relative_url }}"
+                  alt="Testimony company's logo"
+                />
+              </div>
+              <blockquote
+                class="testi-slide--quote txt-ttl-4 cl-white fw-700 py-4 mb-0"
+              >
+                {{ testimonial.description }}
+              </blockquote>
+              <div class="testi-slide--border"></div>
+              <div class="txt-body-3 cl-white fw-400 pt-4">
+                {{ testimonial.title }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div
+      class="slider--dots mod-med testimonialsSliderSimpleDots text-center pt-5"
+    ></div>
+  </div>
+</div>
+{% endif %}
+<!-- END Testimonials slider -->

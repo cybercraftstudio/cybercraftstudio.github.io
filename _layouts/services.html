@@ -1,0 +1,47 @@
+---
+layout: default
+bodyClass: "archive post-type-archive post-type-archive-services "
+---
+
+<section class="pb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-7">
+        <h1 class="txt-ttl-1 cl-black text-uppercase mb-3">{{ page.title }}</h1>
+        <div class="txt-body-3 mb-5 lh-1_625">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <!-- Show customly picked services -->
+      {% assign services = site.service | where: "top_level", true | sort:
+      "weight" %} {% for service in services %}
+      <div class="col-md-6 col-xl-4 mb-4">
+        <div
+          class="service-box mod-square d-flex flex-wrap align-items-end bord-rad-2 p-3 p-md-4 h-100"
+        >
+          <a class="service-box--link" href="{{ service.url | relative_url }}">
+            <span class="sr-only">{{ service.tile_title }}</span>
+          </a>
+          <div class="service-box--content d-flex flex-wrap">
+            <div class="service-box--svg mb-3">
+              <img src="{{ service.tile_image | relative_url }}" />
+            </div>
+            <div class="service-box--body w-100">
+              <div class="txt-ttl-2 mb-3">{{ service.tile_title }}</div>
+              <div class="txt-body-3">
+                {{ service.tile_description }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+      <!-- END Show customly picked services -->
+    </div>
+  </div>
+</section>
+
+{% include clients.html%}

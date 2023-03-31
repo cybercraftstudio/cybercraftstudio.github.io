@@ -1,0 +1,65 @@
+baseurl: "/"
+domain: cybercraftstudio.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://cybercraftstudio.github.io # the base hostname and protocol for your site, e.g. http://example.com
+permalink: pretty
+title: "Cyber Craft"
+# lang: en
+# timezone: UTC
+
+logo:
+  mobile: "images/logo/ccs-logo.svg"
+  mobile_height: "39px"
+  mobile_width: "122px"
+  desktop: "images/logo/ccs-logo.svg"
+  desktop_height: "55px"
+  desktop_width: "134px"
+  footer: "images/logo/ccs-logo.svg"
+  footer_height: "39px"
+  footer_width: "122px"
+
+home:
+  limit_services: 3
+
+collections:
+  service:
+    output: true
+    sort_by: weight
+  approach:
+    output: true
+    sort_by: weight
+  team:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "service"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "team"
+    values:
+      layout: "team"
+  - scope:
+      path: ""
+      type: "approach"
+    values:
+      layout: "approach"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+# # Plugins
+# plugins:
+#   - jekyll-archives
+#   - jekyll-paginate
+#   - jekyll-sitemap

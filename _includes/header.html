@@ -1,0 +1,48 @@
+<header
+  id="siteHeader"
+  class="ss-header ssHeader d-flex flex-wrap align-items-center"
+>
+  {% include main-menu.html %}
+
+  <div class="nav-drawer--backdrop navDrawerBackdrop d-lg-none"></div>
+
+  {% include main-menu-mobile.html %}
+
+  <div
+    id="searchDrawer"
+    class="search-box pt-lg-1 d-none d-lg-block"
+    data-action="ajaxSearch"
+    data-url="wp-admin/admin-ajax.html"
+  >
+    <div class="container">
+      <div class="search-box--field d-flex flex-wrap align-items-center">
+        <form
+          role="search"
+          method="get"
+          class="search-form"
+        >
+          <button class="search-form--btn cl-main btn-icon" type="submit">
+            <svg>
+              <use xlink:href="#icon-search"></use>
+            </svg>
+          </button>
+          <input
+            class="searchInput search-form--input w-100"
+            autocomplete="off"
+            type="search"
+            value=""
+            name="s"
+            placeholder="Search"
+          />
+        </form>
+        <button class="search-box--close btn-icon">
+          <svg>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </button>
+      </div>
+      <div id="searchResults"></div>
+    </div>
+  </div>
+  <div class="search-box--backdrop"></div>
+</header>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js {{ layout.htmlClass }}">
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      {% if page.title %}{{ page.title }}{% else %}{{ site.title | escape }}{%
+      endif %}
+    </title>
+    <link
+      rel="icon"
+      type="image/png"
+      href="{{ '/images/fav-icon.ico' | relative_url }}"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="{{ '/images/fav-icon.ico' | relative_url }}"
+      type="image/x-icon"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}"
+      media="all"
+      data-minify="1"
+    />
+
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    {% endif %} {% if page.meta_title %}
+    <meta property="og:title" content="{{ page.meta_title }}" />
+    {% else %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% endif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ url }}" />
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />
+    {% endif %} {% if page.description %}
+    <meta property="og:description" content="{{ page.description }}" />
+    {% endif %}
+    <meta name="twitter:card" content="summary" />
+    {% if site.data.seo.meta_twitter_site %}
+    <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
+    {% endif %} {% if site.data.seo.meta_twitter_creator %}
+    <meta
+      name="twitter:creator"
+      content="{{ site.seo.meta_twitter_creator }}"
+    />
+    {% endif %}
+
+    <!-- <meta property="og:image"
+        content="{{'/images/uploads/sites/5/2019/09/home-thumb.png' | relative_url }}"/>
+  <meta property="og:image:width" content="1598"/>
+  <meta property="og:image:height" content="915"/>
+  <meta property="og:image:alt" content="Cyber Craft Solutions Tagline"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="Cloud and Agile Transformation Company | Cyber Craft Solutions"/>
+  <meta property="og:description"
+        content="We are an agile driven company delivering digital solutions to our clients. We are an international organization with our headquarters in Amsterdam and delivery centers in Poland, Ukraine, Makedonia, offices in the USA and Belgium."/>
+  <meta property="og:url" content="https://Cyber Craft-solutions.com/"/>
+  <meta property="og:site_name" content="Cyber Craft Solutions"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@Cyber CraftCareer"/>
+  <meta name="twitter:title" content="Cloud and Agile Transformation Company | Cyber Craft Solutions"/>
+  <meta name="twitter:description"
+        content="We are an agile driven company delivering digital solutions to our clients. We are an international organization with our headquarters in Amsterdam and delivery centers in Poland, Ukraine, Makedonia, offices in the USA and Belgium."/>
+  <meta name="twitter:image"
+        content="{{'/images/uploads/sites/5/2019/09/home-thumb.png' | relative_url }}"/>
+  <meta name="twitter:image:width" content="1598"/>
+  <meta name="twitter:image:height" content="915"/>
+  <meta name="twitter:image:alt" content="Cyber Craft Solutions Tagline"/>
+  <link rel="canonical" href="index.html"/>
+ -->
+
+    <link
+      rel="icon"
+      href="{{
+        '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-32x32.png'
+          | relative_url
+      }}"
+      sizes="32x32"
+    />
+    <link
+      rel="icon"
+      href="{{
+        '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-192x192.png'
+          | relative_url
+      }}"
+      sizes="192x192"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="{{
+        '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-180x180.png'
+          | relative_url
+      }}"
+    />
+    <meta
+      name="msapplication-TileImage"
+      content="{{
+        '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-270x270.png'
+          | relative_url
+      }}"
+    />
+  </head>
+
+  <body class="{{ layout.bodyClass }}">
+    {% include header.html%}
+    <main class="ss-main">
+      <nav class="ss-breadcrumbs py-4">
+        <div class="container">
+          <div
+            class="ss-breadcrumbs--row d-flex flex-nowrap align-items-center"
+          >
+            <!-- breadcrumb-->
+          </div>
+        </div>
+      </nav>
+      {{ content }}
+    </main>
+    <footer class="ss-footer pb-3">
+      {% if page.show_lets_meet_section %} {% include letsmeet.html %} {% endif
+      %}
+      <section class="ss-footer--main pt-5">
+        <div class="container pt-5">
+          {% include footer.html %} {% include sub-footer.html %}
+        </div>
+      </section>
+    </footer>
+    {% include svgs.html %} {% include subscribe-model.html %}
+    <script
+      type="text/javascript"
+      src="{{ '/assets/js/jquery8a54.js?ver=1.0.0' | relative_url }}"
+      id="jquery-js"
+    ></script>
+    <script
+      src="{{ '/assets/js/scripts.js' | relative_url }}"
+      data-minify="1"
+      defer
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    {% include google-analytics.html %}
+  </body>
+</html>

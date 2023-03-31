@@ -1,0 +1,38 @@
+[
+  {
+    "name": "linkedin",
+    "class": "soc-icon-linkedin",
+    "link": "https://www.linkedin.com/company/Cyber Craft-solutions/",
+    "svg": "<svg><use xlink:href='#icon-linkedin'></use></svg>"
+  },
+  {
+    "name": "facebook",
+    "class": "soc-icon-facebook",
+    "link": "https://www.facebook.com/Cyber Craft.Solutions",
+    "svg": "<svg><use xlink:href='#icon-facebook'></use></svg>"
+  },
+  {
+    "name": "youtube",
+    "class": "soc-icon-youtube",
+    "link": "https://www.youtube.com/channel/UC9Ldun3VgKij8mFz3ZFB-cw",
+    "svg": "<svg><use xlink:href='#icon-youtube'></use></svg>"
+  },
+  {
+    "name": "clutch",
+    "class": "soc-icon-clutch",
+    "link": "https://clutch.co/profile/Cyber Craft-solutions",
+    "svg": "<svg viewBox='0 0 11 12'><path fill='currentColor'class='icon-clutch-inner' d='M6,4 C7.1045705,4 8,4.89543407 8,6.0000102 C8,7.10456593 7.1045705,8 6,8 C4.8954295,8 4,7.10456593 4,6.0000102 C4,4.89543407 4.8954295,4 6,4'></path><path fill='currentColor' class='icon-clutch-outer' d='M8.07922,8.31788384 C7.48516,8.85252384 6.71288,9.14956384 5.8812,9.14956384 C3.9802,9.14956384 2.61386,7.78324384 2.61386,5.82284384 C2.61386,3.86246384 3.9802,2.55550384 5.8812,2.55550384 C6.71288,2.55550384 7.48516,2.79312384 8.07922,3.38718384 L8.49504,3.74362384 L10.27722,1.96144384 L9.86138,1.54560384 C8.73268,0.595123839 7.36634,0.00106383896 5.8812,0.00106383896 C2.49506,-0.058356161 1.687539e-14,2.37728384 1.687539e-14,5.82284384 C1.687539e-14,9.14956384 2.55446,11.7040238 5.8812,11.7040238 C7.42574,11.7040238 8.85148,11.1693638 9.9802,10.1594838 L10.39606,9.74362384 L8.49506,7.84264384 L8.07922,8.31788384 Z'></path></svg>"
+  },
+  {
+    "name": "Github",
+    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
+    "image": "images/social/github.svg",
+    "hide": true
+  },
+  {
+    "name": "Twitter",
+    "link": "https://twitter.com/zerostaticio",
+    "image": "images/social/twitter.svg",
+    "hide": true
+  }
+]

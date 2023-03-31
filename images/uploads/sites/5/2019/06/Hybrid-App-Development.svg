@@ -1,0 +1,23 @@
+<svg width="396" height="360" viewBox="0 0 396 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="62" y="107" width="272" height="219" rx="13.8406" stroke="#D1D5D9" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="282" y="22" width="331" height="183" rx="8" transform="rotate(90 282 22)" fill="#D30000"/>
+<rect x="298" y="6" width="331" height="183" rx="8" transform="rotate(90 298 6)" fill="#FF0000"/>
+<rect x="133" y="196" width="100" height="12" rx="6" fill="white"/>
+<rect x="133" y="220" width="148" height="12" rx="6" fill="#F5F8FA" fill-opacity="0.8"/>
+<rect x="132.5" y="249.5" width="147" height="68" rx="7.5" stroke="white" stroke-dasharray="4 4"/>
+<rect x="190" y="27" width="21" height="4" rx="2" fill="white"/>
+<circle cx="221" cy="29" r="3" fill="white"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 134 170)" fill="#D30000"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 185 170)" fill="#D30000"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 236 170)" fill="#D30000"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 39 223)" fill="#EAEDF0"/>
+<path d="M70 201L55 209.66L55 192.34L70 201Z" fill="#D1D5D9"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 313 223)" fill="#EAEDF0"/>
+<path d="M330.555 210.088L335.698 190L339.445 190.912L334.302 211L330.555 210.088Z" fill="#D1D5D9"/>
+<path d="M317 200.5L325.247 192.447L327.818 194.958L322.143 200.5L327.818 206.042L325.247 208.553L317 200.5Z" fill="#D1D5D9"/>
+<path d="M342.182 194.958L344.753 192.447L353 200.5L344.753 208.553L342.182 206.042L347.857 200.5L342.182 194.958Z" fill="#D1D5D9"/>
+<rect x="147" y="68" width="119.4" height="75" rx="4" fill="white"/>
+<path d="M198.258 124.949L208.373 84.1992L215.741 86.0497L205.627 126.799L198.258 124.949Z" fill="#FF0000"/>
+<path d="M171.6 105.499L187.818 89.1636L192.875 94.2573L181.714 105.499L192.875 116.741L187.818 121.835L171.6 105.499Z" fill="#FF0000"/>
+<path d="M221.124 94.2573L226.181 89.1636L242.4 105.499L226.181 121.835L221.124 116.741L232.285 105.499L221.124 94.2573Z" fill="#FF0000"/>
+</svg>

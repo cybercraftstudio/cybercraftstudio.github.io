@@ -1,0 +1,18 @@
+<div class="col-12 col-md-auto mt-3 mt-md-0">
+  <nav class="socials-nav">
+    {% assign items = site.data.social | where: "hide", empty | %} {% for item
+    in items %}
+    <a href="{{ item.link }}" class="{{ item.class }}" target="_blank">
+      {%if item.svg%}
+      {{ item.svg }}
+      {%else%}
+      <img
+        src="{{ item.image | relative_url }}"
+        title="{{ item.name }}"
+        alt="{{ item.name }}"
+      />
+      {%endif%}
+    </a>
+    {% endfor %}
+  </nav>
+</div>

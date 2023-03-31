@@ -1,0 +1,32 @@
+[
+  {
+    "title": "CEO, Trezoro",
+    "description": "Their desire to go the extra mile is a rare quality in third party relationships.",
+    "image": {
+      "logo_url": "images/clients/trezoro-logo.webp",
+      "aspect_ratio": "3.6 / 1",
+      "width": 126,
+      "height": 35
+    }
+  },
+  {
+    "title": "Director, Parex co",
+    "description": "Cyber Craft Solutions shared our passion and went all out to bring this unique and brilliant idea into fruition.",
+    "image": {
+      "logo_url": "images/clients/parex-logo.png",
+      "aspect_ratio": "5.5263157894737 / 1",
+      "width": 210,
+      "height": 38
+    }
+  },
+  {
+    "title": "Founder & President, Causee LLC",
+    "description": "They’re skilled in Agile. Without them, we wouldn’t have made nearly the progress we have with Agile.",
+    "image": {
+      "logo_url": "images/clients/causee-logo.png",
+      "aspect_ratio": "4.5945945945946 / 1",
+      "width": 170,
+      "height": 37
+    }
+  }
+]

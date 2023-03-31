@@ -1,0 +1,24 @@
+<svg width="318" height="331" viewBox="0 0 318 331" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="23" y="92" width="272" height="219" rx="13.8406" stroke="#D1D5D9" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="250" width="331" height="183" rx="16" transform="rotate(90 250 0)" fill="#FF0000"/>
+<path d="M215.561 -1.26346e-06C211.143 -1.60009e-06 207.561 3.58172 207.561 8L207.561 10C207.561 16.6274 202.188 22 195.561 22L121.439 22C114.812 22 109.439 16.6274 109.439 10L109.439 8C109.439 3.58172 105.857 -8.07685e-06 101.439 -6.81795e-06L84 -1.84904e-06L233 6.52544e-08L215.561 -1.26346e-06Z" fill="#F5F8FA"/>
+<rect x="142" y="9" width="21" height="4" rx="2" fill="#D30000"/>
+<circle cx="173" cy="11" r="3" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 94 286)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 94 173)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 94 129)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 94 85)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 139 286)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 139 173)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 184 286)" fill="#D30000"/>
+<rect width="39" height="38" rx="10" transform="matrix(1 0 0 -1 184 173)" fill="#D30000"/>
+<rect width="82" height="82" rx="10" transform="matrix(1 0 0 -1 139 129)" fill="#D30000"/>
+<path d="M202 88L167.5 107.919L167.5 68.0814L202 88Z" fill="white"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 0 208)" fill="#EAEDF0"/>
+<path d="M31 186L16 194.66L16 177.34L31 186Z" fill="#D1D5D9"/>
+<rect width="44" height="44" rx="10" transform="matrix(1 0 0 -1 274 208)" fill="#EAEDF0"/>
+<path d="M291.555 195.088L296.698 175L300.445 175.912L295.302 196L291.555 195.088Z" fill="#D1D5D9"/>
+<path d="M278 185.5L286.247 177.447L288.818 179.958L283.143 185.5L288.818 191.042L286.247 193.553L278 185.5Z" fill="#D1D5D9"/>
+<path d="M303.182 179.958L305.753 177.447L314 185.5L305.753 193.553L303.182 191.042L308.857 185.5L303.182 179.958Z" fill="#D1D5D9"/>
+<rect x="84.5" y="238.5" width="148" height="57" rx="7.5" stroke="white" stroke-dasharray="4 4"/>
+</svg>

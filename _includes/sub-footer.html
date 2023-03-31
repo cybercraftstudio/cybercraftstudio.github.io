@@ -1,0 +1,88 @@
+<div class="row align-items-md-center pb-4">
+  <div class="col-6 col-md-4 mb-3 mb-md-0">
+    <div class="row align-items-md-center">
+      <div class="col-md-auto">
+        <a
+          class="ss-footer--logo d-inline-block cl-inherit"
+          href="{{ site.baseurl }}"
+        >
+          <img
+            width="{{ site.logo.footer_width }}"
+            height="{{ site.logo.footer_height }}"
+            alt="{{ site.title }}"
+            src="{{ site.logo.footer | relative_url }}"
+          />
+        </a>
+      </div>
+      {% if site.data.seo.copyright_text %}
+      <div class="ss-footer--copyrigth col-md-auto my-3 my-md-0">
+        {{ site.data.seo.copyright_text }}{{ "now" | date: "%Y" }}
+      </div>
+      {% endif %}
+      <div class="d-md-none col">
+        <ul
+          id="menu-policies-menu"
+          class="footer-nav footer-nav--inline footer-nav--socials list-reset"
+        >
+          <li
+            id="menu-item-337"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-337"
+          >
+            <a href="/privacy-policy/">Privacy and Policy</a>
+          </li>
+          <li
+            id="menu-item-338"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"
+          >
+            <a href="/sitemap.xml">Sitemap</a>
+          </li>
+          <li
+            id="menu-item-339"
+            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"
+          >
+            <a href="/feed.xml">Feed</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 d-none d-md-block">
+    <ul
+      id="menu-policies-menu-1"
+      class="footer-nav footer-nav--inline footer-nav--socials list-reset justify-content-md-center"
+    >
+      <li
+        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-337"
+      >
+        <a href="/privacy-policy/">Privacy and Policy</a>
+      </li>
+      <li
+        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"
+      >
+        <a href="/sitemap.xml">Sitemap</a>
+      </li>
+      <li
+        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"
+      >
+        <a href="/feed.xml">Feed</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-6 col-md-4 mb-3 mb-md-0 text-right">
+    <div class="row justify-content-md-end align-items-md-center">
+      <div class="col-12 col-md-auto order-md-last">
+        <button
+          data-toggle="modal"
+          data-target="#newsletterModal"
+          class="ss-btn ss-btn--main"
+        >
+          Subscribe
+        </button>
+      </div>
+      {% if site.data.social %} {% include social.html %} {% endif %}
+    </div>
+  </div>
+</div>
+

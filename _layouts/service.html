@@ -1,0 +1,43 @@
+---
+layout: default
+bodyClass: "services-template services-template-single-services-2021 services-template-single-services-2021-php single single-services postid-1467"
+---
+
+<div class="overflow-hidden-mobile">
+  <div class="container">
+    <div class="pt-4 pt-xl-5 mt-xl-4">
+      <div class="row pt-2 justify-content-end">
+        <div class="d-none d-md-block col service-image--col ml-auto">
+          <div class="service-image">
+            <img
+              class="lazyload lazy-fade"
+              data-src="{{ page.service_img | relative_url }}"
+              alt="{{ page.title }}"
+            />
+          </div>
+        </div>
+
+        <div class="col-md-9 col-xl-8 offset-md-1 mr-auto">
+          <h1 class="txt-ttl-1 text-uppercase cl-black mb-5">
+            {{ page.title }}
+          </h1>
+          <div class="row">
+            <div class="col service-slogan">
+              <blockquote class="b-quote cl-accent-2 pl-4 mb-3 mb-lg-5">
+                {{ page.quote }}
+              </blockquote>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- {% if page.hide_usecase_section == empty %} {% include usecase.html %} {% endif
+  %} -->
+{% include usecase.html %}

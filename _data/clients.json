@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Trezoro",
+    "case_study": "cases/new-product-releases-every-2-weeks/",
+    "image": {
+      "logo_url": "images/clients/trezoro-logo.webp",
+      "aspect-ratio": "3.5833333333333 / 1",
+      "width": 129,
+      "height": 36
+    }
+  },
+  {
+    "title": "Parex co",
+    "case_study": "cases/agile-transformation-grows-revenue/",
+    "image": {
+      "logo_url": "images/clients/parex-logo.png",
+      "aspect-ratio": "4.5294117647059 / 1",
+      "width": 154,
+      "height": 34
+    }
+  },
+  {
+    "title": "Causee LLC",
+    "case_study": "cases/cloud-engineering-increases-security/",
+    "image": {
+      "logo_url": "images/clients/causee-logo.png",
+      "aspect-ratio": "3.2 / 1",
+      "width": 160,
+      "height": 50
+    }
+  }
+]

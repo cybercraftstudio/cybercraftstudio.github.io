@@ -1,0 +1,51 @@
+---
+layout: default
+bodyClass: "archive post-type-archive post-type-archive-cases"
+---
+
+<section class="pt-5 pb-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-9">
+        <h1 class="txt-ttl-1 cl-black text-uppercase mb-3">{{ page.title }}</h1>
+        <div class="editor-content mb-5">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      {% assign approaches = site.approach | sort: "weight" %} {% for approach
+      in approaches %}
+      <div class="col-md-6 col-xl-4 mb-4">
+        <a
+          href="{{ approach.url | relative_url }}"
+          class="approach-box d-flex align-items-end w-100 mod-bg"
+        >
+          <div class="approach-box--bg img-cover">
+            <img
+              class="lazyload lazy-fade"
+              data-src="{{ approach.tile_image | relative_url }}"
+              alt="{{ approach.title }}"
+            />
+            <div class="approach-box--bg-overlay"></div>
+          </div>
+          <div class="approach-box--inner">
+            <div class="approach-box--appear">
+              <div class="txt-ttl-3 mb-3">{{ approach.title }}</div>
+              <div class="approach-box--appear-text mb-3">
+                {{ approach.tile_description }}
+              </div>
+              <span class="btn-link more-link approach-box--appear-link">
+                Learn More
+                <svg class="svg-icon"><use xlink:href="#icon-more"></use></svg>
+              </span>
+            </div>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% include clients.html%}
