@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="425px" height="517px" viewBox="0 0 425 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Betting</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M101,175 L101,311 L205,242.993843 L101,175 Z M8,474 L8,17 L368,245.493783 L8,474 Z" id="path-1"></path>
+        <filter x="-14.6%" y="-11.5%" width="129.2%" height="123.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="17.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.449385551   0 0 0 0 0.477220448   0 0 0 0 0.569463315  0 0 0 0.33 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service_Agile-Betting-and-i-gaming-solutions" transform="translate(-899.000000, -103.000000)">
+            <g id="Banner" transform="translate(435.000000, 116.000000)">
+                <g id="Betting" transform="translate(491.000000, 0.000000)">
+                    <g id="Shadows" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    </g>
+                    <path d="M93,158 L93,294 L197,225.993843 L93,158 Z M0,457 L0,0 L360,228.493783 L0,457 Z" id="Fill-2-Copy-8" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

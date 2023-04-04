@@ -1,0 +1,52 @@
+---
+layout: default
+bodyClass: "services-template-default single single-services postid-7913 desktop-screen"
+---
+
+<div class="container px-0">
+  <div class="row no-gutters">
+    <div class="col-12">
+      <nav class="ss-breadcrumbs py-4">
+        <div class="container">
+          <div
+            class="ss-breadcrumbs--row d-flex flex-nowrap align-items-center"
+          ></div>
+        </div>
+      </nav>
+    </div>
+  </div>
+</div>
+
+<div class="pt-3">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-xl-12 pt-4">
+        <div class="row pt-2 justify-content-end">
+          <div class="d-none d-md-block col service-image--col ml-auto">
+            <div class="service-image">
+              <img
+                class="lazyload lazy-fade"
+                data-src="{{ page.service_img | relative_url }}"
+                alt="{{ page.title }}"
+              />
+            </div>
+          </div>
+
+          <div class="col-12">
+            <h1 class="txt-ttl-1 text-uppercase cl-black mb-5">
+              {{ page.title }}
+            </h1>
+            <div class="row">
+              <div class="col service-slogan">
+                <blockquote class="b-quote cl-accent-2 pl-4 mb-5">
+                  {{ page.quote }}
+                </blockquote>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
