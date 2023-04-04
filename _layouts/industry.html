@@ -1,0 +1,64 @@
+---
+layout: default
+bodyClass: "industries-template-default single single-industries postid-17172"
+---
+
+<article
+  class="industry-content font-title editor-content overflow-hidden-mobile"
+>
+  <section class="hero-w-btns">
+    <div class="container py-5">
+      <div class="row align-items-md-center">
+        <div class="col-md-6 col-lg-7 order-md-last">
+          <div class="hero-w-btns--image">
+            <img
+              class="lazyload lazy-fade w-100"
+              data-src="{{ page.service_img | relative_url }}"
+              alt="{{ page.title }}"
+            />
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-5">
+          <div class="hero-w-btns--content">
+            <div class="ss-breadcrumbs d-none d-md-block mb-md-4">
+              <div class="ss-breadcrumbs--row">
+                
+              </div>
+            </div>
+            <h1
+              class="txt-ttl-1 text-uppercase cl-black mb-4 pb-2 hero-w-btns--ttl"
+            >
+              {{ page.title }}
+            </h1>
+            <blockquote class="cl-accent-2 mb-4">
+              {{ page.quote }}
+            </blockquote>
+            <div class="hero-w-btns--btns flex-align-center">
+              <a
+                href="#talk-to-us"
+                class="ss-btn ss-btn--acc mr-5 mb-2"
+                target="_self"
+              >
+                Get Your Solution
+              </a>
+              <!-- <a
+                href="../cases/accelerating-mvp-for-covid-19-testing-app-using-aws-cloud-platform.html"
+                class="btn-link cl-accent-1 mb-2"
+                target="_self"
+              >
+                Read cases ➔
+              </a> -->
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+  <p></p>
+
+  {{ content }}
+
+  <p></p>
+</article>

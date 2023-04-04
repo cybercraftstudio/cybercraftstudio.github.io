@@ -453,27 +453,27 @@
 Integrations</a></p>
                     </div>
                                                         <div class="esp-igame--item item-1">
-                      <p><a href="../services/agile-transformation.html">Agile<br />
+                      <p><a href="/service/agile-transformation/">Agile<br />
 transformation</a><br />
 <img loading="lazy" class="alignnone wp-image-5793" src="/images/uploads/sites/5/2020/01/safe-icon.png" alt="safe certfied" width="50" height="49" /></p>
                     </div>
                                                         <div class="esp-igame--item item-2">
-                      <p><a href="../services/mobile-application-development.html">Mobile App<br />
+                      <p><a href="/service/mobile-application-development/">Mobile App<br />
 Development</a></p>
                     </div>
                                                         <div class="esp-igame--item item-3">
                       <p><img loading="lazy" class="alignnone size-full wp-image-6254" src="/images/uploads/sites/5/2020/01/sdn-main-logo.png" alt="sdn" width="78" height="29" /><br />
-<a href="../services/experience-design.html">Service Design</a></p>
+<a href="/service/experience-design/">Service Design</a></p>
                     </div>
                                                         <div class="esp-igame--item item-4">
                       <p><a href="../company/index.html#awards-and-recognitions"><img loading="lazy" class="alignnone wp-image-6270" src="/images/uploads/sites/5/2020/01/cio-devops-providers.png" alt="Cyber Craft Solutions is recognized among top DevOps Providers by CIOReview" width="100" height="34" /></a><br />
-<a href="../services/devops.html">DevOps</a></p>
+<a href="/service/devops/">DevOps</a></p>
                     </div>
                                                         <div class="esp-igame--item item-5">
-                      <p><a href="../services/digital-marketing.html">Digital Marketing</a></p>
+                      <p><a href="/service/digital-marketing/">Digital Marketing</a></p>
                     </div>
                                                         <div class="esp-igame--item item-6">
-                      <p><a href="../services/quality-assurance-and-testing.html">QA and Testing</a></p>
+                      <p><a href="/service/quality-assurance-and-testing/">QA and Testing</a></p>
                     </div>
                                   </div>
               

@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en-US" class="no-js has-announcement">
 
-<!-- Mirrored from Cyber Craft-solutions.com/igaming/integration-services by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Mar 2023 13:02:08 GMT -->
+<!-- Mirrored from Cyber Craft-solutions.com/igaming/ai-driven-content-personalization by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Mar 2023 13:02:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
   <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Integration Services for Gaming &#038; Gambling | Cyber Craft Solutions</title><link rel="stylesheet" href="/images/cache/min/5/2c3027e04176778dc48b186e7f7ed86a.css" media="all" data-minify="1" />
+	<title>AI&#x2d;driven Content Personalization | Cyber Craft Solutions</title><link rel="stylesheet" href="/images/cache/min/5/2c3027e04176778dc48b186e7f7ed86a.css" media="all" data-minify="1" />
 	<link rel="icon" type="image/png" href="/images/uploads/sites/5/2019/09/favicon-32x32.png">
 	<link rel="apple-touch-icon" sizes="60x60" href="/images/uploads/sites/5/2019/09/apple-icon-60x60.png" type="image/x-icon">
 	<!-- <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -76,41 +76,41 @@
   </style>
 	
 <!-- The SEO Framework by Sybre Waaijer -->
-<meta name="description" content="Leverage our extensive experience of providing gaming and data integration services for creating consistent, engaging user experiences across omnichannel." />
+<meta name="description" content="Deliver AI&#x2d;driven content personalization to your customers by leveraging data integration to boost revenue, improve customer experience and brand loyalty." />
 <meta property="og:image" content="/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1.png" />
 <meta property="og:image:width" content="512" />
 <meta property="og:image:height" content="512" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Integration Services for Gaming &#038; Gambling | Cyber Craft Solutions" />
-<meta property="og:description" content="Leverage our extensive experience of providing gaming and data integration services for creating consistent, engaging user experiences across omnichannel." />
-<meta property="og:url" content="https://Cyber Craft-solutions.com/igaming/integration-services" />
+<meta property="og:title" content="AI&#x2d;driven Content Personalization | Cyber Craft Solutions" />
+<meta property="og:description" content="Deliver AI&#x2d;driven content personalization to your customers by leveraging data integration to boost revenue, improve customer experience and brand loyalty." />
+<meta property="og:url" content="https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization" />
 <meta property="og:site_name" content="Cyber Craft Solutions" />
-<meta property="og:updated_time" content="2021-10-29T16:09+00:00" />
+<meta property="og:updated_time" content="2021-10-29T16:07+00:00" />
 <meta property="article:publisher" content="https://www.facebook.com/Cyber Craft.Solutions" />
-<meta property="article:published_time" content="2020-05-12T13:12+00:00" />
-<meta property="article:modified_time" content="2021-10-29T16:09+00:00" />
+<meta property="article:published_time" content="2020-05-07T16:22+00:00" />
+<meta property="article:modified_time" content="2021-10-29T16:07+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@Cyber CraftCareer" />
-<meta name="twitter:title" content="Integration Services for Gaming &#038; Gambling | Cyber Craft Solutions" />
-<meta name="twitter:description" content="Leverage our extensive experience of providing gaming and data integration services for creating consistent, engaging user experiences across omnichannel." />
+<meta name="twitter:title" content="AI&#x2d;driven Content Personalization | Cyber Craft Solutions" />
+<meta name="twitter:description" content="Deliver AI&#x2d;driven content personalization to your customers by leveraging data integration to boost revenue, improve customer experience and brand loyalty." />
 <meta name="twitter:image" content="/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1.png" />
 <meta name="twitter:image:width" content="512" />
 <meta name="twitter:image:height" content="512" />
-<link rel="canonical" href="integration-services.html" />
-<!-- / The SEO Framework by Sybre Waaijer | 8.53ms meta | 0.73ms boot -->
+<link rel="canonical" href="ai-driven-content-personalization.html" />
+<!-- / The SEO Framework by Sybre Waaijer | 7.68ms meta | 0.33ms boot -->
 
 
 
 <style id='rocket-lazyload-inline-css' type='text/css'>
 .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(/images/plugins/wp-rocket/assets/img/youtube.png) no-repeat;cursor:pointer}
 </style>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/services/7989.json" />
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/services/7913.json" />
 <!-- Schema & Structured Data For WP v1.9.100 - -->
 <script type="application/ld+json" class="saswp-schema-markup-output">
 [{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Our Approach","url":"https://Cyber Craft-solutions.com/approaches"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Managed Team","url":"https://Cyber Craft-solutions.com/approaches/dedicated-team"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Managed Product Development","url":"https://Cyber Craft-solutions.com/approaches/managed-product-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Lean Agile","url":"https://Cyber Craft-solutions.com/approaches/agile-driven"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Services","url":"https://Cyber Craft-solutions.com/services"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Application Development","url":""},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Application Development","url":"https://Cyber Craft-solutions.com/services/custom-software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Custom Mobile App Development","url":"https://Cyber Craft-solutions.com/services/mobile-application-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"QA and Testing","url":"https://Cyber Craft-solutions.com/services/quality-assurance-and-testing"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Cloud & DevOps","url":""},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Cloud Native Development Services","url":"https://Cyber Craft-solutions.com/services/cloud-native-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"DevOps Services","url":"https://Cyber Craft-solutions.com/services/devops"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Performance Testing","url":"https://Cyber Craft-solutions.com/services/performance-testing"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Application Modernization","url":"https://Cyber Craft-solutions.com/services/application-modernization"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Managed Infrastructure","url":"https://Cyber Craft-solutions.com/services/managed-infrastructure"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Agile Services","url":""},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Agile Transformation","url":"https://Cyber Craft-solutions.com/services/agile-transformation"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Agile Consulting and Coaching","url":"https://Cyber Craft-solutions.com/services/agile-consulting-and-coaching"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Agile Training and Certifications","url":"https://Cyber Craft-solutions.com/services/agile-training-and-certification"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Data and Analytics","url":"https://Cyber Craft-solutions.com/services/data-and-analytics"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Experience Design ","url":"https://Cyber Craft-solutions.com/services/experience-design"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Digital Marketing","url":"https://Cyber Craft-solutions.com/services/digital-marketing"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Omnichannel Orchestration","url":"https://Cyber Craft-solutions.com/services/omnichannel-orchestration"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Industries","url":""},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"iGaming","url":""},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Sports Betting and iGaming Software Development","url":"https://Cyber Craft-solutions.com/igaming/software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Casino Game Development","url":"https://Cyber Craft-solutions.com/industries/casino-game-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"eSports Software Development","url":"https://Cyber Craft-solutions.com/igaming/esports"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Integration Services for iGaming","url":"https://Cyber Craft-solutions.com/igaming/integration-services"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"AI-driven content personalization","url":"https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Healthcare","url":"https://Cyber Craft-solutions.com/industries/healthcare-software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"eLearning","url":"https://Cyber Craft-solutions.com/industries/custom-elearning-software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Case Studies","url":"https://Cyber Craft-solutions.com/cases"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"All Cases","url":"https://Cyber Craft-solutions.com/cases"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Sports Betting and iGaming","url":"https://Cyber Craft-solutions.com/cases?service=online-betting-and-gambling"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Cloud & DevOps","url":"https://Cyber Craft-solutions.com/cases?service=cloud-devops"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Healthcare","url":"https://Cyber Craft-solutions.com/cases?service=healthcare-software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Agile Transformation","url":"https://Cyber Craft-solutions.com/cases?service=agile-transformation"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"eLearning","url":"https://Cyber Craft-solutions.com/cases?service=elearning-software-development"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"View all","url":"https://Cyber Craft-solutions.com/cases"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Company","url":"https://Cyber Craft-solutions.com/company"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Meet Cyber Craft Solutions","url":"https://Cyber Craft-solutions.com/company#meet-Cyber Craft-solutions"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"People and Culture","url":"https://Cyber Craft-solutions.com/company#people-and-culture"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Corporate Social Responsibility","url":"https://Cyber Craft-solutions.com/corporate-social-responsibility"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Corporate volunteering","url":"https://Cyber Craft-solutions.com/corporate-social-responsibility/corporate-volunteering"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Go Green","url":"https://Cyber Craft-solutions.com/corporate-social-responsibility/go-green"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Education and Learning","url":"https://Cyber Craft-solutions.com/corporate-social-responsibility/education-and-learning"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Empowering communities","url":"https://Cyber Craft-solutions.com/corporate-social-responsibility/empowering-communities"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Awards and Partners","url":"https://Cyber Craft-solutions.com/awards-and-partners"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Visit career website","url":"https://www.Cyber Craft-solutions.eu"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Insights","url":"https://Cyber Craft-solutions.com/insights"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Articles","url":"https://Cyber Craft-solutions.com/insights?category=article"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"News","url":"https://Cyber Craft-solutions.com/insights?category=news"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Whitepapers","url":"https://Cyber Craft-solutions.com/insights?category=whitepaper"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Events","url":"https://Cyber Craft-solutions.com/insights?category=event"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Career","url":"https://www.Cyber Craft-solutions.eu"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Contact Us","url":"https://Cyber Craft-solutions.com/contact-us"},{"@context":"https://schema.org","@type":"SiteNavigationElement","@id":"https://Cyber Craft-solutions.com/#Main menu","name":"Search","url":""}]},
 
-{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://Cyber Craft-solutions.com/igaming/integration-services/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://Cyber Craft-solutions.com","name":"Cyber Craft Solutions "}},{"@type":"ListItem","position":2,"item":{"@id":"https://Cyber Craft-solutions.com/services","name":"Services"}},{"@type":"ListItem","position":3,"item":{"@id":"https://Cyber Craft-solutions.com/igaming/integration-services","name":"Integration Services for Gaming & Gambling"}}]}]
+{"@context":"https://schema.org","@type":"BreadcrumbList","@id":"https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://Cyber Craft-solutions.com","name":"Cyber Craft Solutions "}},{"@type":"ListItem","position":2,"item":{"@id":"https://Cyber Craft-solutions.com/services","name":"Services"}},{"@type":"ListItem","position":3,"item":{"@id":"https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization","name":"AI&#x2d;driven Content Personalization"}}]}]
 </script>
 
 <link rel="icon" href="/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-32x32.png" sizes="32x32" />
@@ -166,7 +166,7 @@
 <script data-rocketlazyloadscript='data:text/javascript;base64,DQpzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7DQogIChmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsnZ3RtLnN0YXJ0JzoNCiAgbmV3IERhdGUoKS5nZXRUaW1lKCksZXZlbnQ6J2d0bS5qcyd9KTt2YXIgZj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0KICBqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCiAgJ2h0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0nK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOw0KICB9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1UMktHRk1aJyk7DQp9LCAxMDAwKTsNCg==' async defer></script>
 <!-- End Google Tag Manager -->
 </head>
-<body class="services-template-default single single-services postid-7989 cookies-not-set">
+<body class="services-template-default single single-services postid-7913 cookies-not-set">
 	<!-- Google Tag Manager (noscript) -->
 <noscript>
   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T2KGFMZ"
@@ -212,32 +212,32 @@ For those whose product vision is ready to go through the pipeline of product de
 </li>
 <li id="menu-item-342" class="menu-item menu-item-type-post_type_archive menu-item-object-services menu-item-has-children menu-item-342 nav-item has-mmenu"><a class="nav-link mmenuLink" href="../services.html">Services</a>
 <div class="ss-megamenu ssMegaMenu px-5 px-lg-0"><div class="ss-megamenu--row d-lg-flex flex-lg-wrap"><div class="ss-megamenu--header"><div class="ss-megamenu--header-spacer img-cover mmenuDefHeader h-100 cl-main"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/bg-sign-services-main.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Services</div><div class="txt-body-4">Cyber Craft Solutions provides custom software development to help build, sustain and modernize enterprise software. Agile Transformation and Cloud Solutions are the heart of our 10-year expertise in serving growth-driven clients.</div><div class="mt-3"><a href="../services.html" class="btn-link more-link cl-accent-1 text-uppercase">Learn more ➞</a></div></div></div></div><div class="mmenuHeader h-100 d-none"></div></div><ul class='ss-megamenu--nav py-lg-4 '>
-<div class="ss-megamenu--sub-ttl py-2">Services</div>	<li id="menu-item-19441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19441 nav-item"><a class="nav-link mmenuLink">Application Development<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-custom.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Application Development</div><div class="txt-body-4">We deliver custom application development services including mobile application development, software engineering, QA, UI/UX Design and digital marketing across a variety of domains for larger and smaller clients using DevOps and Agile approaches for greater clients’ results.</div><div class="mt-3"><a href="../services/custom-software-development.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
+<div class="ss-megamenu--sub-ttl py-2">Services</div>	<li id="menu-item-19441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19441 nav-item"><a class="nav-link mmenuLink">Application Development<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-custom.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Application Development</div><div class="txt-body-4">We deliver custom application development services including mobile application development, software engineering, QA, UI/UX Design and digital marketing across a variety of domains for larger and smaller clients using DevOps and Agile approaches for greater clients’ results.</div><div class="mt-3"><a href="/service/custom-software-development/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
 	<div class="ss-megamenu--sub my-lg-4 pl-4"><div class="ss-megamenu--sub-ttl py-2">Application Development</div><ul>
-			<li id="menu-item-19432" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19432 nav-item"><a class="nav-link mmenuLink" href="../services/custom-software-development.html">Application Development</a></li>
-		<li id="menu-item-3661" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3661 nav-item"><a class="nav-link mmenuLink" href="../services/mobile-application-development.html">Custom Mobile App Development</a></li>
-		<li id="menu-item-3665" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3665 nav-item"><a class="nav-link mmenuLink" href="../services/quality-assurance-and-testing.html">QA and Testing</a></li>
+			<li id="menu-item-19432" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19432 nav-item"><a class="nav-link mmenuLink" href="/service/custom-software-development/">Application Development</a></li>
+		<li id="menu-item-3661" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3661 nav-item"><a class="nav-link mmenuLink" href="/service/mobile-application-development/">Custom Mobile App Development</a></li>
+		<li id="menu-item-3665" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3665 nav-item"><a class="nav-link mmenuLink" href="/service/quality-assurance-and-testing/">QA and Testing</a></li>
 	</ul></div>
 </li>
-	<li id="menu-item-19435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19435 nav-item"><a class="nav-link mmenuLink">Cloud &#038; DevOps<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-cloud-solutions.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Cloud & DevOps</div><div class="txt-body-4">We provide cloud native development, cloud modernization, cloud managed services, DevOps and application assessment to deliver extra data protection, increased speed, elastic scaling, and lowered capital expense for our clients. </div><div class="mt-3"><a href="../services/cloud-solutions.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
+	<li id="menu-item-19435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19435 nav-item"><a class="nav-link mmenuLink">Cloud &#038; DevOps<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-cloud-solutions.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Cloud & DevOps</div><div class="txt-body-4">We provide cloud native development, cloud modernization, cloud managed services, DevOps and application assessment to deliver extra data protection, increased speed, elastic scaling, and lowered capital expense for our clients. </div><div class="mt-3"><a href="/service/cloud-solutions/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
 	<div class="ss-megamenu--sub my-lg-4 pl-4"><div class="ss-megamenu--sub-ttl py-2">Cloud & DevOps</div><ul>
-			<li id="menu-item-14120" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14120 nav-item"><a class="nav-link mmenuLink" href="../services/cloud-native-development.html">Cloud Native Development Services</a></li>
-		<li id="menu-item-14124" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14124 nav-item"><a class="nav-link mmenuLink" href="../services/devops.html">DevOps Services</a></li>
+			<li id="menu-item-14120" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14120 nav-item"><a class="nav-link mmenuLink" href="/service/cloud-native-development/">Cloud Native Development Services</a></li>
+		<li id="menu-item-14124" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14124 nav-item"><a class="nav-link mmenuLink" href="/service/devops/">DevOps Services</a></li>
 		<li id="menu-item-24406" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24406 nav-item"><a class="nav-link mmenuLink" href="../services/performance-testing.html">Performance Testing</a></li>
 	</ul></div>
 </li>
-	<li id="menu-item-16628" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-16628 nav-item"><a class="nav-link mmenuLink" href="../services/application-modernization.html">Application Modernization</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-omnichannel-orchestration.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Application Modernization  </div><div class="txt-body-4">Transform your legacy applications to make them Cloud-ready and take a full advantage of what Cloud has to offer in terms of agility, scalability, and performance.</div><div class="mt-3"><a href="../services/application-modernization.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
-	<li id="menu-item-24630" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24630 nav-item"><a class="nav-link mmenuLink" href="../services/managed-infrastructure.html">Managed Infrastructure</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2023/03/managed-infrastructure-megamenu-image.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Managed Infrastructure </div><div class="txt-body-4">Empower yourself for future growth, innovate and create business value while we manage the complexities of your IT infrastructure.</div><div class="mt-3"><a href="../services/managed-infrastructure.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
-	<li id="menu-item-19436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19436 nav-item"><a class="nav-link mmenuLink">Agile Services<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-agile-transformation.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Agile Services</div><div class="txt-body-4">Transform your organizational model with our Agile transformation and coaching services to embrace new principles and thrive in a flexible, collaborative, self-organizing, fast-changing environment and better react to the market changes.</div><div class="mt-3"><a href="../services/agile-transformation.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
+	<li id="menu-item-16628" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-16628 nav-item"><a class="nav-link mmenuLink" href="/service/application-modernization/">Application Modernization</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-omnichannel-orchestration.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Application Modernization  </div><div class="txt-body-4">Transform your legacy applications to make them Cloud-ready and take a full advantage of what Cloud has to offer in terms of agility, scalability, and performance.</div><div class="mt-3"><a href="/service/application-modernization/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
+	<li id="menu-item-24630" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24630 nav-item"><a class="nav-link mmenuLink" href="/service/managed-infrastructure/">Managed Infrastructure</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2023/03/managed-infrastructure-megamenu-image.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Managed Infrastructure </div><div class="txt-body-4">Empower yourself for future growth, innovate and create business value while we manage the complexities of your IT infrastructure.</div><div class="mt-3"><a href="/service/managed-infrastructure/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
+	<li id="menu-item-19436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19436 nav-item"><a class="nav-link mmenuLink">Agile Services<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-agile-transformation.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Agile Services</div><div class="txt-body-4">Transform your organizational model with our Agile transformation and coaching services to embrace new principles and thrive in a flexible, collaborative, self-organizing, fast-changing environment and better react to the market changes.</div><div class="mt-3"><a href="/service/agile-transformation/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
 	<div class="ss-megamenu--sub my-lg-4 pl-4"><div class="ss-megamenu--sub-ttl py-2">Agile Services</div><ul>
-			<li id="menu-item-19456" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19456 nav-item"><a class="nav-link mmenuLink" href="../services/agile-transformation.html">Agile Transformation</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Agile Transformation</div><div class="txt-body-4">Transform your organizational model with our Agile transformation and coaching services to embrace new principles and thrive in a flexible, collaborative, self-organizing, fast-changing environment and better react to the market changes.</div><div class="mt-3"><a href="../services/agile-transformation.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
+			<li id="menu-item-19456" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19456 nav-item"><a class="nav-link mmenuLink" href="/service/agile-transformation/">Agile Transformation</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Agile Transformation</div><div class="txt-body-4">Transform your organizational model with our Agile transformation and coaching services to embrace new principles and thrive in a flexible, collaborative, self-organizing, fast-changing environment and better react to the market changes.</div><div class="mt-3"><a href="/service/agile-transformation/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
 		<li id="menu-item-3123" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3123 nav-item"><a class="nav-link mmenuLink" href="../services/agile-consulting-and-coaching.html">Agile Consulting and Coaching</a></li>
 		<li id="menu-item-3121" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3121 nav-item"><a class="nav-link mmenuLink" href="../services/agile-training-and-certification.html">Agile Training and Certifications</a></li>
 	</ul></div>
 </li>
-	<li id="menu-item-24036" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24036 nav-item"><a class="nav-link mmenuLink" href="../services/data-and-analytics.html">Data and Analytics</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-custom.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Data and Analytics</div><div class="txt-body-4">Leverage data analytics as a service to make informed business decisions based on data rather than intuition</div><div class="mt-3"><a href="../services/data-and-analytics.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
-	<li id="menu-item-24623" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24623 nav-item"><a class="nav-link mmenuLink" href="../services/experience-design.html">Experience Design </a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-service-design.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Experience Design </div><div class="txt-body-4">We take a customer-centric, service design approach to designing experiences. The end goal of our user experience design services is to deliver products that run smoothly, address the clients’ problems and create competitive leverage versus the alternatives.</div><div class="mt-3"><a href="../services/experience-design.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
-	<li id="menu-item-24403" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-has-children menu-item-24403 nav-item"><a class="nav-link mmenuLink" href="../services/digital-marketing.html">Digital Marketing<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-igaming-solutions.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Digital Marketing</div><div class="txt-body-4">We help businesses enter the digital world and create an engaged and dedicated customer base by implementing digital marketing orchestration for real-time and quality results.</div><div class="mt-3"><a href="../services/digital-marketing.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
+	<li id="menu-item-24036" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24036 nav-item"><a class="nav-link mmenuLink" href="/service/data-and-analytics/">Data and Analytics</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-custom.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Data and Analytics</div><div class="txt-body-4">Leverage data analytics as a service to make informed business decisions based on data rather than intuition</div><div class="mt-3"><a href="/service/data-and-analytics/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
+	<li id="menu-item-24623" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24623 nav-item"><a class="nav-link mmenuLink" href="/service/experience-design/">Experience Design </a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-service-design.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Experience Design </div><div class="txt-body-4">We take a customer-centric, service design approach to designing experiences. The end goal of our user experience design services is to deliver products that run smoothly, address the clients’ problems and create competitive leverage versus the alternatives.</div><div class="mt-3"><a href="/service/experience-design/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
+	<li id="menu-item-24403" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-has-children menu-item-24403 nav-item"><a class="nav-link mmenuLink" href="/service/digital-marketing/">Digital Marketing<span class="nav-arrow arrow-right ml-auto subMenuOpen"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-igaming-solutions.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Digital Marketing</div><div class="txt-body-4">We help businesses enter the digital world and create an engaged and dedicated customer base by implementing digital marketing orchestration for real-time and quality results.</div><div class="mt-3"><a href="/service/digital-marketing/" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div>
 	<div class="ss-megamenu--sub my-lg-4 pl-4"><div class="ss-megamenu--sub-ttl py-2">Digital Marketing</div><ul>
 			<li id="menu-item-8516" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-8516 nav-item"><a class="nav-link mmenuLink" href="../services/omnichannel-orchestration.html">Omnichannel Orchestration</a><div class="mmenuHeadingContent d-none"><div class="ss-megamenu--header-spacer img-cover h-100"><div class="ss-megamenu--header-tile img-cover cl-main"><img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2021/03/mmserv-omnichannel-orchestration.png"><div class="ss-megamenu--header-inner py-4 py-xl-5"><div class="txt-ttl-3 mb-3">Omnichannel Orchestration</div><div class="txt-body-4">We deliver omnichannel strategy solutions for your business as a way to reimagine the core business model and create value with the end customer in mind by connecting products, insights and experiences across all channels delivering an ‘omni-channel’ optimized product.</div><div class="mt-3"><a href="../services/omnichannel-orchestration.html" class="btn-link more-link cl-accent-1 font-weight-bold text-uppercase">Learn more ➞</a></div></div></div></div></div></li>
 	</ul></div>
@@ -251,8 +251,8 @@ For those whose product vision is ready to go through the pipeline of product de
 			<li id="menu-item-19440" class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-19440 nav-item"><a class="nav-link mmenuLink" href="software-development.html">Sports Betting and iGaming Software Development</a></li>
 		<li id="menu-item-20126" class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-20126 nav-item"><a class="nav-link mmenuLink" href="../industries/casino-game-development.html">Casino Game Development</a></li>
 		<li id="menu-item-17523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17523 nav-item"><a class="nav-link mmenuLink" href="esports.html">eSports Software Development</a></li>
-		<li id="menu-item-17525" class="menu-item menu-item-type-post_type menu-item-object-services current-menu-item menu-item-17525 nav-item"><a class="nav-link mmenuLink" href="integration-services.html" aria-current="page">Integration Services for iGaming</a></li>
-		<li id="menu-item-21323" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-21323 nav-item"><a class="nav-link mmenuLink" href="ai-driven-content-personalization.html">AI-driven content personalization</a></li>
+		<li id="menu-item-17525" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-17525 nav-item"><a class="nav-link mmenuLink" href="integration-services.html">Integration Services for iGaming</a></li>
+		<li id="menu-item-21323" class="menu-item menu-item-type-post_type menu-item-object-services current-menu-item menu-item-21323 nav-item"><a class="nav-link mmenuLink" href="ai-driven-content-personalization.html" aria-current="page">AI-driven content personalization</a></li>
 	</ul></div>
 </li>
 	<li id="menu-item-18729" class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-18729 nav-item"><a class="nav-link mmenuLink" href="../industries/healthcare-software-development.html">Healthcare</a></li>
@@ -333,30 +333,30 @@ For those whose product vision is ready to go through the pipeline of product de
 <ul class="sub-menu px-5 py-4">
 <li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19441"><a class="nav-item subMenuOpen">Application Development<span class="nav-arrow arrow-right ml-1"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a>
 	<ul class="sub-menu px-5 py-4">
-<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19432"><a class="nav-item" href="../services/custom-software-development.html">Application Development</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3661"><a class="nav-item" href="../services/mobile-application-development.html">Custom Mobile App Development</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3665"><a class="nav-item" href="../services/quality-assurance-and-testing.html">QA and Testing</a></li>
+<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19432"><a class="nav-item" href="/service/custom-software-development/">Application Development</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3661"><a class="nav-item" href="/service/mobile-application-development/">Custom Mobile App Development</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3665"><a class="nav-item" href="/service/quality-assurance-and-testing/">QA and Testing</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19435"><a class="nav-item subMenuOpen">Cloud &#038; DevOps<span class="nav-arrow arrow-right ml-1"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a>
 	<ul class="sub-menu px-5 py-4">
-<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14120"><a class="nav-item" href="../services/cloud-native-development.html">Cloud Native Development Services</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14124"><a class="nav-item" href="../services/devops.html">DevOps Services</a></li>
+<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14120"><a class="nav-item" href="/service/cloud-native-development/">Cloud Native Development Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14124"><a class="nav-item" href="/service/devops/">DevOps Services</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24406"><a class="nav-item" href="../services/performance-testing.html">Performance Testing</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-16628"><a class="nav-item" href="../services/application-modernization.html">Application Modernization</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24630"><a class="nav-item" href="../services/managed-infrastructure.html">Managed Infrastructure</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-16628"><a class="nav-item" href="/service/application-modernization/">Application Modernization</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24630"><a class="nav-item" href="/service/managed-infrastructure/">Managed Infrastructure</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19436"><a class="nav-item subMenuOpen">Agile Services<span class="nav-arrow arrow-right ml-1"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a>
 	<ul class="sub-menu px-5 py-4">
-<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19456"><a class="nav-item" href="../services/agile-transformation.html">Agile Transformation</a></li>
+<li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-19456"><a class="nav-item" href="/service/agile-transformation/">Agile Transformation</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3123"><a class="nav-item" href="../services/agile-consulting-and-coaching.html">Agile Consulting and Coaching</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-3121"><a class="nav-item" href="../services/agile-training-and-certification.html">Agile Training and Certifications</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24036"><a class="nav-item" href="../services/data-and-analytics.html">Data and Analytics</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24623"><a class="nav-item" href="../services/experience-design.html">Experience Design </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-has-children menu-item-24403"><a class="nav-item subMenuOpen" href="../services/digital-marketing.html">Digital Marketing<span class="nav-arrow arrow-right ml-1"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24036"><a class="nav-item" href="/service/data-and-analytics/">Data and Analytics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24623"><a class="nav-item" href="/service/experience-design/">Experience Design </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-has-children menu-item-24403"><a class="nav-item subMenuOpen" href="/service/digital-marketing/">Digital Marketing<span class="nav-arrow arrow-right ml-1"><svg class="svg-icon"><use xlink:href="#icon-arrow-right"></use></svg></span></a>
 	<ul class="sub-menu px-5 py-4">
 <li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-8516"><a class="nav-item" href="../services/omnichannel-orchestration.html">Omnichannel Orchestration</a></li>
 	</ul>
@@ -370,8 +370,8 @@ For those whose product vision is ready to go through the pipeline of product de
 <li class="sub-menu--title mb-3"><span class="nav-item subMenuClose"><span class="nav-arrow arrow-left"><svg class="svg-icon"><use xlink:href="#icon-arrow-left"></use></svg></span><span class="subMenuCloseTitle">Go Back</span></span></li>		<li class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-19440"><a class="nav-item" href="software-development.html">Sports Betting and iGaming Software Development</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-20126"><a class="nav-item" href="../industries/casino-game-development.html">Casino Game Development</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17523"><a class="nav-item" href="esports.html">eSports Software Development</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-services current-menu-item menu-item-17525"><a class="nav-item" href="integration-services.html" aria-current="page">Integration Services for iGaming</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-21323"><a class="nav-item" href="ai-driven-content-personalization.html">AI-driven content personalization</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-services menu-item-17525"><a class="nav-item" href="integration-services.html">Integration Services for iGaming</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-services current-menu-item menu-item-21323"><a class="nav-item" href="ai-driven-content-personalization.html" aria-current="page">AI-driven content personalization</a></li>
 	</ul>
 </li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-18729"><a class="nav-item" href="../industries/healthcare-software-development.html">Healthcare</a></li>
@@ -451,7 +451,7 @@ For those whose product vision is ready to go through the pipeline of product de
   <div class="container">
     <div class="ss-breadcrumbs--row d-flex flex-nowrap align-items-center">
       <!-- Breadcrumb NavXT 7.1.0 -->
-<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Cyber Craft Solutions ." href="../index.html" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span><span class="breadcrumb-arrow mx-1"></span><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Services." href="../services.html" class="archive post-services-archive" ><span property="name">Services</span></a><meta property="position" content="2"></span><span class="breadcrumb-arrow mx-1"></span><span class="post post-services current-item">Integration Services for Gaming &#038; Gambling</span>    </div>
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Cyber Craft Solutions ." href="../index.html" class="home" ><span property="name">Home</span></a><meta property="position" content="1"></span><span class="breadcrumb-arrow mx-1"></span><span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Services." href="../services.html" class="archive post-services-archive" ><span property="name">Services</span></a><meta property="position" content="2"></span><span class="breadcrumb-arrow mx-1"></span><span class="post post-services current-item">AI-driven content personalization</span>    </div>
   </div>
 </nav>			</div>
 		</div>
@@ -472,7 +472,7 @@ For those whose product vision is ready to go through the pipeline of product de
 																									<ul>
 																																																																																																											
 											<li >
-												<a href="../services/managed-infrastructure.html">
+												<a href="/service/managed-infrastructure/">
 													Managed Infrastructure																									</a>												
 
 																								
@@ -480,7 +480,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li >
-												<a href="../services/experience-design.html">
+												<a href="/service/experience-design/">
 													Experience Design 																									</a>												
 
 																								
@@ -488,7 +488,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li >
-												<a href="../services/digital-marketing.html">
+												<a href="/service/digital-marketing/">
 													Digital Marketing																									</a>												
 
 																								
@@ -496,7 +496,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li >
-												<a href="../services/data-and-analytics.html">
+												<a href="/service/data-and-analytics/">
 													Data and Analytics																									</a>												
 
 																								
@@ -504,7 +504,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li class="has-children ">
-												<a href="../services/cloud-solutions.html">
+												<a href="/service/cloud-solutions/">
 													Cloud &#038; DevOps																											<svg class="svg-icon">
 															<use xlink:href="#icon-caret-down"></use>
 														</svg>
@@ -515,19 +515,19 @@ For those whose product vision is ready to go through the pipeline of product de
 																<a href="../services/performance-testing.html">Performance Testing as a Service</a>
 															</li>																
 																																												<li >
-																<a href="../services/managed-infrastructure.html">Cloud Managed Services</a>
+																<a href="/service/managed-infrastructure/">Cloud Managed Services</a>
 															</li>																
 																																												<li >
 																<a href="../services/application-assessment.html">Application Assessment</a>
 															</li>																
 																																												<li >
-																<a href="../services/cloud-native-development.html">Cloud Native Development Services</a>
+																<a href="/service/cloud-native-development/">Cloud Native Development Services</a>
 															</li>																
 																																												<li >
-																<a href="../services/devops.html">DevOps Services</a>
+																<a href="/service/devops/">DevOps Services</a>
 															</li>																
 																																												<li >
-																<a href="../services/application-modernization.html">Cloud Application Modernization</a>
+																<a href="/service/application-modernization/">Cloud Application Modernization</a>
 															</li>																
 																											</ul>
 																								
@@ -551,7 +551,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li class="has-children ">
-												<a href="../services/custom-software-development.html">
+												<a href="/service/custom-software-development/">
 													Application Development																											<svg class="svg-icon">
 															<use xlink:href="#icon-caret-down"></use>
 														</svg>
@@ -559,16 +559,16 @@ For those whose product vision is ready to go through the pipeline of product de
 
 																									<ul>
 																																												<li >
-																<a href="../services/mobile-application-development.html">Custom Mobile App Development</a>
+																<a href="/service/mobile-application-development/">Custom Mobile App Development</a>
 															</li>																
 																																												<li >
-																<a href="../services/quality-assurance-and-testing.html">QA and Testing</a>
+																<a href="/service/quality-assurance-and-testing/">QA and Testing</a>
 															</li>																
 																																												<li >
-																<a href="../services/experience-design.html">Design services</a>
+																<a href="/service/experience-design/">Design services</a>
 															</li>																
 																																												<li >
-																<a href="../services/digital-marketing.html">Digital Marketing Orchestration</a>
+																<a href="/service/digital-marketing/">Digital Marketing Orchestration</a>
 															</li>																
 																											</ul>
 																								
@@ -576,7 +576,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li class="has-children ">
-												<a href="../services/agile-transformation.html">
+												<a href="/service/agile-transformation/">
 													Agile Transformation																											<svg class="svg-icon">
 															<use xlink:href="#icon-caret-down"></use>
 														</svg>
@@ -611,10 +611,10 @@ For those whose product vision is ready to go through the pipeline of product de
 																									</a>												
 
 																									<ul>
-																																												<li class="active">
+																																												<li >
 																<a href="integration-services.html">Integration Services for Gaming &#038; Gambling</a>
 															</li>																
-																																												<li >
+																																												<li class="active">
 																<a href="ai-driven-content-personalization.html">AI-driven content personalization</a>
 															</li>																
 																											</ul>
@@ -623,7 +623,7 @@ For those whose product vision is ready to go through the pipeline of product de
 											
 																																																																																																											
 											<li >
-												<a href="../services/experience-design.html">
+												<a href="/service/experience-design/">
 													Service Design																									</a>												
 
 																								
@@ -642,18 +642,18 @@ For those whose product vision is ready to go through the pipeline of product de
 
 															<div class="d-none d-md-block col service-image--col ml-auto">
 									<div class="service-image">
-																					<img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2019/07/Betting-1.svg" alt="Integration Services for Gaming &#038; Gambling">
+																					<img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2019/07/Betting-1.svg" alt="AI-driven content personalization">
 																			</div>
 								</div>
 							
 							<div class="col-12">
 															
 									
-																							<h1 class="txt-ttl-1 text-uppercase cl-black mb-5">Integration Services </h1>
+																							<h1 class="txt-ttl-1 text-uppercase cl-black mb-5">AI-driven content personalization  </h1>
 																	<div class="row">
 										<div class="col service-slogan">
 											<blockquote class="b-quote cl-accent-2 pl-4 mb-5">
-												Optimize and enhance the iGaming user experience with cross-platform integrations 											</blockquote>
+												Interact with your customers on a more personal level by leveraging AI-driven recommendations to deliver engaging, relevant content to your customers through multiple channels. 											</blockquote>
 										</div>
 									</div>
 															</div>
@@ -664,15 +664,11 @@ For those whose product vision is ready to go through the pipeline of product de
 									<!-- Simple text -->
 																																							<section class="simple-text editor-content">
 												<p><!-- wp:paragraph --></p>
-<p>The integration of data feeds and casino games in iGaming is a key part of our service offering to the iGaming industry. The provision of feeds from trusted sources provide bettors with valuable information that impacts user behaviour and their decision-making process, determining the gaming experience and overall satisfaction of the user, be it in sports betting or in online casinos.</p>
+<p>First impressions matter more than you might think. According to Accenture’s research, 91 % of consumers are more likely to purchase from brands that provide relevant offers and recommendations.</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p>Cyber Craft Solutions offers gaming and data integration solutions for enhanced user experience. We do this in an agile fashion, delivering value quickly to the operators.</p>
+<p>In today&#8217;s highly competitive day and age your clients are bombarded with offers across multiple channels, if you don’t succeed in grabbing their attention and offering exactly what they need, they will look elsewhere and get it from your competitors. Content recommendations and personalization means communicating with your clients on a more personal level that shows that their interests are being taken into consideration.</p>
 <p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>With many years of experience in delivering integration services to the iGaming industry, we provide consistent and engaging omnichannel user experiences, working with platforms, websites and mobile applications.</p>
-<p><!-- /wp:paragraph --></p>
-<p><a class="ss-btn ss-btn--main ss-btn--outline mt-4" href="#talk-to-us" target="_self" rel="noopener noreferrer">Talk to us</a></p>
 											</section>											
 											
 																		<!-- END Simple text -->
@@ -681,12 +677,12 @@ For those whose product vision is ready to go through the pipeline of product de
 															
 																																							<!-- Additional content -->
 											<section class="py-3 py-md-5">
-																																							<h2 class="txt-body-3 cl-muted text-uppercase mb-4">Common Integration Scenarios </h2>
+																																							<h2 class="txt-ttl-2 cl-black mb-4"><div class="mt-n5">Content personalization in iGaming</div></h2>
 																									
 												<div class="editor-content">
-													<p><img loading="lazy" class="alignleft wp-image-7996 size-full" src="/images/uploads/sites/5/2020/05/Group.svg" alt="platform integration services for online casino providers" width="63" height="64" /></p>
-<h2 class="sec-title mod-l cl-black mb-4">Online Casino Operators: Gaming Integrations from suppliers</h2>
-<p>Top content engages the user, keeping them on your site and entertained. From the latest casino games, to live dealer integrations and pooled jackpots, we have you covered and are able to integrate new game modules, as well as industry leading back-office modules to provide game transaction history, game management as well as financial and KPI reporting.</p>
+													<p><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">AI personalization </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">is possible via</span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0"> integration </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">through an API allowing you </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">to deliver highly personalized experiences to your customers</span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">.</span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0"> The solution that we offer </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">in partnership with </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">is </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">an </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">AI-driven real-time personalization &amp; recommendation engine built especially for the betting and gaming </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">industry</span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">. It</span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0"> </span></span><span class="TextRun SCXW72972280 BCX0" lang="EN-GB" xml:lang="EN-GB" data-contrast="auto"><span class="NormalTextRun SCXW72972280 BCX0">includes the following offerings: </span></span><span class="EOP SCXW72972280 BCX0" data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><img loading="lazy" class="mb-n4 aligncenter wp-image-7921 size-full" src="/images/uploads/sites/5/2020/05/Group-137.png" alt="AI content personalisation for iGaming" width="1860" height="678" /></p>
+<div id="rememberry__extension__root" style="all: unset;"></div>
 												</div>
 
 																																			</section>
@@ -698,9 +694,25 @@ For those whose product vision is ready to go through the pipeline of product de
 											<section class="py-3 py-md-5">
 												
 												<div class="editor-content">
-													<p><img loading="lazy" class="alignleft wp-image-7997 size-full" src="/images/uploads/sites/5/2020/05/Group-1.svg" alt="platform integration services for sports betting software" width="67" height="56" /></p>
-<h2 class="sec-title mod-l cl-black mb-4">Sports Betting Operators: Virtual Sports</h2>
-<p>Advances in virtual sports visualizations and simulations allow for an experience that is similar to ‘real’ sports.</p>
+													<p><strong>Recommend </strong></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Real-time pre-event and in-play bet recommendations.</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1"><span data-contrast="auto">Multi-vertical casino, slots, games and bingo recommendations</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}">.</span></li>
+</ul>
+<p><b><span data-contrast="auto">Momentum</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Identify trending events, markets and selections in sports and g</span><span data-contrast="auto">aming.</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
+</ul>
+<p><b><span data-contrast="auto">Intelligent Layouts</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="2" data-aria-level="1"><span data-contrast="auto">Deliver a completely personalized experience across the full sports and gaming site. </span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="3" data-aria-level="1"><span data-contrast="auto">Prioritize events, navigation, menus and icons, unique to each user.</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
+</ul>
+<p><b><span data-contrast="auto">Engage</span></b><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="1" aria-setsize="-1" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Rule and trigger-based push, email and SMS.</span><span data-ccp-props="{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></li>
+</ul>
+<div id="rememberry__extension__root" style="all: unset;"></div>
 												</div>
 
 																																			</section>
@@ -708,26 +720,121 @@ For those whose product vision is ready to go through the pipeline of product de
 																			
 								
 															
+																																							<!-- Additional content -->
+											<section class="py-3 py-md-5">
+																																							<h2 class="txt-body-3 cl-muted text-uppercase mb-4">A typical integration scenario </h2>
+																									
+												<div class="editor-content">
+													<p><span data-contrast="auto">Clickstream &#8211; Back End &#8211; CMS – Data Warehouse</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}"> </span></p>
+<p><img loading="lazy" class="aligncenter wp-image-7928 size-full" src="/images/uploads/sites/5/2020/05/Group-134.png" alt="how content personalization works" width="1764" height="718" /></p>
+<div id="rememberry__extension__root" style="all: unset;"></div>
+												</div>
+
+																																			</section>
+											<!-- END Additional content -->
+																			
+								
+															
+																																							<!-- Additional content -->
+											<section class="py-3 py-md-5">
+																																							<h2 class="txt-body-3 cl-muted text-uppercase mb-4">Typical Integration Timeline </h2>
+																									
+												<div class="editor-content">
+													<p><img loading="lazy" class="aligncenter wp-image-7931 size-full" src="/images/uploads/sites/5/2020/05/Group-136.png" alt="AI content personalization platform integration" width="1906" height="850" /></p>
+												</div>
+
+																																			</section>
+											<!-- END Additional content -->
+																			
+								
+															
+									<!-- Clients section -->
+																																							<section class="py-3 py-md-5 mb-4">
+																									<h2 class="txt-body-3 cl-muted text-uppercase mb-4">CLIENTS using Graphyte.ai solutions  </h2>
+												
+																																																		<div class="clientsSliderNoLoop swiper-container">
+														<div class="swiper-wrapper">
+																																																													    <div data-aos="fade-up" data-aos-delay="0" 
+    class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-start align-items-center">
+    <a href="javascript:;" class="client-slide--holder">
+      <img width="154" height="34"
+        class="mw-100 lazyload lazy-fade m-0"
+        style="aspect-ratio: 4.5294117647059 / 1"
+        data-src="/images/uploads/sites/5/2019/06/logo-virtualstock.svg"
+        alt="Virtualstock">
+    </a>
+  </div>
+																																														    <div data-aos="fade-up" data-aos-delay="0" 
+    class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-start align-items-center">
+    <a href="javascript:;" class="client-slide--holder">
+      <img width="160" height="50"
+        class="mw-100 lazyload lazy-fade m-0"
+        style="aspect-ratio: 3.2 / 1"
+        data-src="/images/uploads/sites/5/2019/06/logo-vivino.svg"
+        alt="Vivino">
+    </a>
+  </div>
+																																														    <div data-aos="fade-up" data-aos-delay="0" 
+    class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-start align-items-center">
+    <a href="javascript:;" class="client-slide--holder">
+      <img width="190" height="35"
+        class="mw-100 lazyload lazy-fade m-0"
+        style="aspect-ratio: 5.4285714285714 / 1"
+        data-src="/images/uploads/sites/5/2019/07/logo-coral.svg"
+        alt="Ladbrockes Coral Group">
+    </a>
+  </div>
+																																														    <div data-aos="fade-up" data-aos-delay="0" 
+    class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-start align-items-center">
+    <a href="javascript:;" class="client-slide--holder">
+      <img width="173" height="82"
+        class="mw-100 lazyload lazy-fade m-0"
+        style="aspect-ratio: 2.109756097561 / 1"
+        data-src="/images/uploads/sites/5/2019/09/ctp-logo-01.svg"
+        alt="CTP">
+    </a>
+  </div>
+																																														    <div data-aos="fade-up" data-aos-delay="0" 
+    class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-start align-items-center">
+    <a href="javascript:;" class="client-slide--holder">
+      <img width="129" height="36"
+        class="mw-100 lazyload lazy-fade m-0"
+        style="aspect-ratio: 3.5833333333333 / 1"
+        data-src="/images/uploads/sites/5/2019/06/logo-blexr.svg"
+        alt="Blexr">
+    </a>
+  </div>
+																																												</div>
+													</div>
+												
+																																					<div class="mt-5">
+														<a href="#talk-to-us" class="ss-btn ss-btn--main" target="_self">
+  Talk to us</a>													</div>
+																							</section>
+																												<!-- END Clients section -->
+
+								
+															
 									<!-- Benefits two column section -->
 																																																																<section class="py-3 py-md-5 mb-md-4">
-																													<h2 class="txt-ttl-2 cl-black mb-4"><div class="mt-n3 mb-n4 mb-md-n5">Benefits</div></h2>
+																													<h2 class="txt-ttl-2 cl-black mb-4">Content personalization solutions for: </h2>
 														
 														
 																													<div class="row">
 																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
 																		<div class="b-quote">
 																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
+																				Casino Lobbies 																			</h3> 
 																			<div class="txt-body-3 lh-1_625">
-																				24/7 betting opportunities even when real-life sports events are out of season or otherwise unavailable. 																			</div>
+																				By delivering a user-specific version of your home page, you make your customers’ life easier and help them find games they love or would like to play. This also results in much clearer navigation, better UX and ultimately, higher user retention.   																			</div>
 																		</div>
 																	</div>
 																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
 																		<div class="b-quote">
 																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
+																				Sports Betting 																			</h3> 
 																			<div class="txt-body-3 lh-1_625">
-																				Can be configured across multiple channels - retail, terminal, mobile, and desktop - making for a compelling business proposition.  																			</div>
+																				Bring Netflix-style personalization to your bettors and automatically tailor every element of your offering according to your client’s individual preferences with bespoke navigation and menus, sport and game categories, promotions, banners and new game launches. 																			</div>
 																		</div>
 																	</div>
 																															</div> 
@@ -738,128 +845,233 @@ For those whose product vision is ready to go through the pipeline of product de
 
 								
 															
-																																							<!-- Additional content -->
-											<section class="py-3 py-md-5">
-												
-												<div class="editor-content">
-													<div class="mt-m-3 mt-md-n5">Cyber Craft Solutions offers an experienced data integration team that is focused on the delivery of value to the operator quickly.</div>
-												</div>
-
-																																			</section>
-											<!-- END Additional content -->
-																			
-								
-															
-																																							<!-- Additional content -->
-											<section class="py-3 py-md-5">
-												
-												<div class="editor-content">
-													<p><img loading="lazy" class="alignleft wp-image-7995 size-full" src="/images/uploads/sites/5/2020/05/Group-140.svg" alt="data feeds integration services for sports betting" width="65" height="66" /></p>
-<h2 class="sec-title mod-l cl-black mb-4">Sports Betting Operators: Esports</h2>
-<p>There’s a remarkable surge in interest in Esports, driven by a new generation of bettors, presenting an exciting opportunity for operators.</p>
-												</div>
-
-																																			</section>
-											<!-- END Additional content -->
-																			
-								
-															
-									<!-- Benefits two column section -->
-																																																																<section class="py-3 py-md-5 mb-md-4">
-																													<h2 class="txt-ttl-2 cl-black mb-4"><div class="mt-n3 mb-n4 mb-md-n5">Benefits</div></h2>
+									<!-- Infographics section -->
+																																																																									<section class="py-3 py-md-5 mb-4">
+																																													<h2 class="txt-body-3 cl-muted text-uppercase mb-4">Benefits of content personalization for your enterprise  </h2>
+																													
 														
+																													<div id="accordion-group-8" class="row">
+																																																	<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame.svg"
+        alt="Scale">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-0"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Scale      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-0" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Personalise across every product in sports and gaming 
+<br>Scales to 1m+actives/ month / brand    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-7.svg"
+        alt="Time to value">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-1"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Time to value      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-1" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      >Personalisation algorithms out of box 
+<br>Fast forward roadmap by 18 months
+<br>Integration fully managed by Graphyte     </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-1.svg"
+        alt="Agility">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-2"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Agility      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-2" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Ultra-responsive to our operators ideas
+<br>Fast release of new features
+<br>Partnership at core of operating model    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-2.svg"
+        alt="Compliance ">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-3"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Compliance       </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-3" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      No PII Required
+<br>ICO Registered Processor
+<br>Data encrypted at rest and in transport    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-8.svg"
+        alt="Integration">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-4"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Integration      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-4" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Flexible front and back end options
+<br>Leverage pre-existing integrations    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-3.svg"
+        alt="Multi-brand">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-5"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Multi-brand      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-5" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Inherently multi-brand
+<br>Cross brand tracking and cross-brand cross sell    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-4.svg"
+        alt="Self-serve">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-6"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Self-serve      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-6" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Simple user interface that you control
+<br>No dependency on services
+<br>Custom data upload via front-end
+<br>or programmatically    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-5.svg"
+        alt="Industry-specific">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-7"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Industry-specific      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-7" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      100% built for betting and gaming 
+<br>Understand unique data challenges
+<br>inherent in the industry    </div>
+  </div>
+</div>
+																	</div>
+																																																		<div class="col-md-6 mb-5">
+																		<div class="info-accordeon">
+  <div class="info-accordeon--img">
+          <img
+        class="lazyload lazy-fade"
+        data-src="/images/uploads/sites/5/2020/05/Frame-6.svg"
+        alt="Deployment">
+      </div>
+  <div class="info-accordeon--content">
+    <a class="info-accordeon--title collapsed d-block mb-3 pb-3" 
+      href="#accordion-item-8-8"
+      data-toggle="collapse" aria-expanded="false">
+      <div class="txt-ttl-3 cl-black mb-0">
+        Deployment      </div>
+      <svg class="svg-icon cl-muted"><use xlink:href="#icon-arrow-down"></use></svg>
+    </a>
+    <div id="accordion-item-8-8" 
+      class="collapse info-accordeon--collapse txt-body-3">
+      Ultra low-latency <70ms average
+<br>response time 
+<br>Deploy across any channel    </div>
+  </div>
+</div>
+																	</div>
+																																																</div> 
 														
-																													<div class="row">
-																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
-																		<div class="b-quote">
-																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
-																			<div class="txt-body-3 lh-1_625">
-																				Esports is one of the fastest-growing sectors of sports betting; Covid-19 accelerated the trend and we expect this growth to continue.																			</div>
-																		</div>
-																	</div>
-																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
-																		<div class="b-quote">
-																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
-																			<div class="txt-body-3 lh-1_625">
-																				Taps into a new group of users, offering highly engaging content, and is least affected by social distancing mandates. 																			</div>
-																		</div>
-																	</div>
-																															</div> 
 														
 																																									</section>
 												 
-																																							<!-- END Benefits two column section -->
+																																							<!-- END Infographics section -->
 
-								
-															
-																																							<!-- Additional content -->
-											<section class="py-3 py-md-5">
-												
-												<div class="editor-content">
-													<div class="mt-m-3 mt-md-n5">Cyber Craft Solutions provides solutions that allow operators to quickly integrate an Esports offer into their iGaming platform, providing a broad selection of Esports events, as well as features that drive engagement such as live scores and statistics.</div>
-												</div>
-
-																																			</section>
-											<!-- END Additional content -->
-																			
-								
-															
-																																							<!-- Additional content -->
-											<section class="py-3 py-md-5">
-												
-												<div class="editor-content">
-													<p><img loading="lazy" class="alignleft wp-image-7998 size-full" src="/images/uploads/sites/5/2020/05/Group-2.svg" alt="Sports Betting Operators: Traditional Sports feeds" width="73" height="67" /></p>
-<h2 class="sec-title mod-l cl-black mb-4">Sports Betting Operators: Traditional Sports feeds</h2>
-<p>Operators are well-aware of the seasonal dependency of traditional sports, allowing for longer periods of calm, or even drawbacks with events being cancelled or postponed. Nevertheless, this can be an opportunity to enhance the current pre-match, live sports feeds and video streams, ensuring that when sporting events return, operators will be ahead of the curve.</p>
-												</div>
-
-																																			</section>
-											<!-- END Additional content -->
-																			
-								
-															
-									<!-- Benefits two column section -->
-																																																																<section class="py-3 py-md-5 mb-md-4">
-																													<h2 class="txt-ttl-2 cl-black mb-4"><div class="mt-n3 mb-n4 mb-md-n5">Benefits</div></h2>
-														
-														
-																													<div class="row">
-																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
-																		<div class="b-quote">
-																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
-																			<div class="txt-body-3 lh-1_625">
-																				Has the largest audience, following the delays and cancellations in worldwide sports events due to Covid-19 there will be a sharp increase once events are re-opened. 																			</div>
-																		</div>
-																	</div>
-																																	<div class="col-xl-6 col-md-6 pt-md-3 mb-4">
-																		<div class="b-quote">
-																			<h3 class="txt-ttl-3 cl-black mb-4">
-																																							</h3> 
-																			<div class="txt-body-3 lh-1_625">
-																				Live in-play sports betting is highly engaging. 																			</div>
-																		</div>
-																	</div>
-																															</div> 
-														
-																																									</section>
-												 
-																																							<!-- END Benefits two column section -->
-
-								
-															
-																																							<!-- Additional content -->
-											<section class="py-3 py-md-5">
-												
-												<div class="editor-content">
-													<div class="mt-m-3 mt-md-n5">Cyber Craft Solutions offers services to operators, keen to modernize their apps, which include updating to newer versions of existing data feeds, adding new feed-driven content and improving their existing UX/UI across multiple channels.</div>
-												</div>
-
-																																			</section>
-											<!-- END Additional content -->
-																			
 								
 															
 									<!-- Approaches section -->
@@ -867,6 +1079,27 @@ For those whose product vision is ready to go through the pipeline of product de
 																									<h2 class="txt-ttl-2 cl-black mb-4">How we deliver</h2>
 												
 																																					<div class="row">
+																																											<div class="col-md-6 mb-4">
+																
+<a href="../approaches/managed-product-development.html" class="approach-box d-flex align-items-end w-100 mod-bg">
+    
+    <div 
+      class="approach-box--bg img-cover">
+      <img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2019/06/OurApproach3.jpg" alt="Managed Product Development">
+      <div class="approach-box--bg-overlay"></div>
+    </div>
+    <div class="approach-box--inner">
+    <div class="approach-box--appear">
+      <div class="txt-ttl-3 mb-3">Managed Product Development</div>
+      <div class="approach-box--appear-text mb-3">
+        <p>For those whose product vision is ready to go through the pipeline of product development, to prototype and beyond, and be returned completed to its rightful owner.</p>
+      </div>      
+      <span class="btn-link more-link approach-box--appear-link">
+        Learn More <svg class="svg-icon"><use xlink:href="#icon-more"></use></svg>
+      </span>
+    </div>
+  </div>
+</a>															</div>
 																																											<div class="col-md-6 mb-4">
 																
 <a href="../approaches/dedicated-team.html" class="approach-box d-flex align-items-end w-100 mod-bg">
@@ -882,27 +1115,6 @@ For those whose product vision is ready to go through the pipeline of product de
       <div class="approach-box--appear-text mb-3">
         <p>Extended Team / Managed Team / Offshore Delivery Center</p>
 <p>Select the style of engagement based on the size and nature of your project.</p>
-      </div>      
-      <span class="btn-link more-link approach-box--appear-link">
-        Learn More <svg class="svg-icon"><use xlink:href="#icon-more"></use></svg>
-      </span>
-    </div>
-  </div>
-</a>															</div>
-																																											<div class="col-md-6 mb-4">
-																
-<a href="../approaches/managed-product-development.html" class="approach-box d-flex align-items-end w-100 mod-bg">
-    
-    <div 
-      class="approach-box--bg img-cover">
-      <img class="lazyload lazy-fade" data-src="/images/uploads/sites/5/2019/06/OurApproach3.jpg" alt="Managed Product Development">
-      <div class="approach-box--bg-overlay"></div>
-    </div>
-    <div class="approach-box--inner">
-    <div class="approach-box--appear">
-      <div class="txt-ttl-3 mb-3">Managed Product Development</div>
-      <div class="approach-box--appear-text mb-3">
-        <p>For those whose product vision is ready to go through the pipeline of product development, to prototype and beyond, and be returned completed to its rightful owner.</p>
       </div>      
       <span class="btn-link more-link approach-box--appear-link">
         Learn More <svg class="svg-icon"><use xlink:href="#icon-more"></use></svg>
@@ -934,6 +1146,50 @@ For those whose product vision is ready to go through the pipeline of product de
 											<div class="swiper-container overflow-slider">
 												<div class="swiper-wrapper">
 																																							                																				
+
+
+
+
+
+<div class="swiper-slide h-auto">
+  <a data-aos="fade-up" data-aos-delay="0" class="case-slide d-flex flex-wrap bord-rad-2 overflow-hidden h-100" href="../cases/smart-product-recommendations-and-personalisation-with-ai.html">
+    <div class="case-slide--img w-100">
+              <img
+          class="d-lg-none w-100 lazyload lazy-fade" 
+          data-src="/images/uploads/sites/5/2020/06/graphyte-case-mob-ipad.jpg"
+          alt="Smart product recommendations and personalisation with AI">
+                    <img
+          class="d-none d-lg-block w-100 lazyload lazy-fade" 
+          data-src="/images/uploads/sites/5/2020/06/case-desktop-3-1.png"
+          alt="Smart product recommendations and personalisation with AI">
+          </div>
+    <div class="case-slide--content d-flex flex-wrap h-100 p-4 py-lg-5 pr-lg-0 pl-lg-5 cl-white">
+      <div class="txt-ttl-3 mb-4 w-100">
+        Smart product recommendations and personalisation with AI              </div>
+      <div class="w-100 mb-3 mb-lg-0 pb-lg-4 d-none d-lg-block">
+        <div class="row">
+                      <div class="col-md-6">
+              <div class="resource-tile--tax mb-2 cl-white mod-sm">
+                <span class="txt-ttl-5 mb-1 d-block">Services</span>
+                <ul class="resource-tile--tax-items list-reset txt-body-5">
+                                      <li class="text-truncate mb-1">Application Development</li>
+                                      <li class="text-truncate mb-1">Cloud &amp; DevOps</li>
+                                      <li class="text-truncate mb-1">Experience Design</li>
+                                      <li class="text-truncate mb-1">Sports Betting &amp; iGaming</li>
+                                  </ul>
+              </div>
+            </div>
+                    
+                  </div>
+      </div>
+      <div class="w-100 mt-auto">
+        <span class="case-slide--link btn-link mod-m more-link">
+          Read Case <svg class="svg-icon"><use xlink:href="#icon-more"></use></svg>
+        </span>
+      </div>
+    </div>
+  </a>
+</div>																										                																				
 
 
 
@@ -1116,7 +1372,7 @@ For those whose product vision is ready to go through the pipeline of product de
                                   <div class="ss-form cl-black">
                     <div role="form" class="wpcf7" id="wpcf7-f716-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="https://Cyber Craft-solutions.com/igaming/integration-services#wpcf7-f716-o1" method="post" class="wpcf7-form init" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
+<form action="https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization#wpcf7-f716-o1" method="post" class="wpcf7-form init" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="716" />
 <input type="hidden" name="_wpcf7_version" value="5.6.3" />
@@ -1163,7 +1419,7 @@ For those whose product vision is ready to go through the pipeline of product de
 </div>
 <div class="d-none">
 <span class="wpcf7-form-control-wrap" data-name="redirectUrl"><input type="text" name="redirectUrl" value="https://Cyber Craft-solutions.com/thank-you-for-submission" size="40" class="wpcf7-form-control wpcf7-text d-none" aria-invalid="false" /></span>
-</div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="236"/></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                  </div>
+</div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="98"/></p><div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                  </div>
                               </div>
             </div>
           </div>
@@ -1259,11 +1515,11 @@ For those whose product vision is ready to go through the pipeline of product de
 
         <div class="col-6 col-md-4 col-xl-2 mb-3 mb-xl-4">
           <ul id="menu-services-menu" class="footer-nav list-reset"><li id="menu-item-366" class="nav-item--title menu-item menu-item-type-post_type_archive menu-item-object-services menu-item-366"><a href="../services.html">Services</a></li>
-<li id="menu-item-14052" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14052"><a href="../services/cloud-solutions.html">Cloud &#038; DevOps</a></li>
-<li id="menu-item-24756" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24756"><a href="../services/data-and-analytics.html">Data and Analytics</a></li>
+<li id="menu-item-14052" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-14052"><a href="/service/cloud-solutions/">Cloud &#038; DevOps</a></li>
+<li id="menu-item-24756" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-24756"><a href="/service/data-and-analytics/">Data and Analytics</a></li>
 <li id="menu-item-18187" class="menu-item menu-item-type-post_type menu-item-object-industries menu-item-18187"><a href="software-development.html">iGaming Software Development</a></li>
-<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-367"><a href="../services/agile-transformation.html">Agile Transformation</a></li>
-<li id="menu-item-7249" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-7249"><a href="../services/custom-software-development.html">Application Development</a></li>
+<li id="menu-item-367" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-367"><a href="/service/agile-transformation/">Agile Transformation</a></li>
+<li id="menu-item-7249" class="menu-item menu-item-type-post_type menu-item-object-services menu-item-7249"><a href="/service/custom-software-development/">Application Development</a></li>
 </ul>        </div>
 
         <div class="col-6 col-md-4 col-xl-2 mb-3 mb-xl-4">
@@ -1547,7 +1803,7 @@ For those whose product vision is ready to go through the pipeline of product de
     </div>
   </div>
 		
-			<input class="dynamicFormFieldValue" data-id="pageUrl" type="hidden" value="https://Cyber Craft-solutions.com/igaming/integration-services">
+			<input class="dynamicFormFieldValue" data-id="pageUrl" type="hidden" value="https://Cyber Craft-solutions.com/igaming/ai-driven-content-personalization">
 	
 	
 
@@ -1583,6 +1839,6 @@ if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_c
 
 	<script src="/images/cache/min/5/6702f84c70ebc5cfdd2d6bb7ca6a1ccc.js" data-minify="1" defer></script></body>
 
-<!-- Mirrored from Cyber Craft-solutions.com/igaming/integration-services by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Mar 2023 13:02:13 GMT -->
+<!-- Mirrored from Cyber Craft-solutions.com/igaming/ai-driven-content-personalization by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 03 Mar 2023 13:02:20 GMT -->
 </html>
 <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1677842737 -->

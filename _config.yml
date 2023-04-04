@@ -27,6 +27,12 @@ collections:
   approach:
     output: true
     sort_by: weight
+  industry:
+    output: true
+  integration:
+    output: true
+  insight:
+    output: true
   team:
     output: true
 
@@ -46,6 +52,21 @@ defaults:
       type: "approach"
     values:
       layout: "approach"
+  - scope:
+      path: ""
+      type: "industry"
+    values:
+      layout: "industry"
+  - scope:
+      path: ""
+      type: "integration"
+    values:
+      layout: "integration"
+  - scope:
+      path: ""
+      type: "insight"
+    values:
+      layout: "insight"
 
 exclude:
   - Gemfile
@@ -61,5 +82,5 @@ exclude:
 
 # Plugins
 plugins:
- - jekyll-paginate
- - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
