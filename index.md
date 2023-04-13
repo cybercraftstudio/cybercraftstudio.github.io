@@ -1,5 +1,4 @@
 ---
-title: Cyber Crafts
 layout: home
 description: We are an agile driven company delivering digital solutions to our clients.
 intro_image: "images/illustrations/pointing.svg"

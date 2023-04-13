@@ -1,0 +1,127 @@
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<title>
+  {% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{%
+  else %}{{ site.title | escape }}{% endif %}
+</title>
+<link
+  rel="icon"
+  type="image/png"
+  href="{{ '/images/fav-icon.ico' | relative_url }}"
+/>
+<link
+  rel="apple-touch-icon"
+  sizes="60x60"
+  href="{{ '/images/fav-icon.ico' | relative_url }}"
+  type="image/x-icon"
+/>
+{% if page.description %}
+<meta name="description" content="{{ page.description }}" />
+{% endif %}
+<!-- Facebook -->
+<meta property="og:locale" content="en_US" />
+{% if page.meta_title %}<meta
+  property="og:title"
+  content="{{ page.meta_title }}"
+/>
+<meta property="og:image:alt" content="{{ page.meta_title }} Tagline" />
+{% else %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:image:alt" content="{{ page.title }} Tagline" />
+{% endif %}
+<meta property="og:site_name" content="{{ page.title }}" />
+{% if page.meta_type %}<meta
+  property="og:type"
+  content="{{ page.meta_type }}"
+/>
+{% else %}
+<meta property="og:type" content="website" />{% endif %}
+<meta property="og:url" content="{{ url }}" />
+{% if page.meta_img %}
+<meta property="og:image" content="{{ page.meta_img | absolute_url }}" />
+{% else if page.image %}
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+{% endif %} {% if page.meta_img %}
+<meta property="og:image:width" content="{{ page.meta_image_width }}" />{% endif
+%} {% if page.meta_img %}
+<meta property="og:image:height" content="{{ page.meta_image_height }}" />{%
+endif %} {% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% endif %} {% if site.data.seo.meta_facebook_publisher %}<meta
+  property="article:publisher"
+  content="{{ site.seo.meta_facebook_publisher }}"
+/>{% endif %} {% if page.meta_updated_time %}<meta
+  property="og:updated_time"
+  content="{{ page.meta_updated_time }}"
+/>{% endif %} {% if page.meta_published_time %}<meta
+  property="article:published_time"
+  content="{{ page.meta_published_time }}"
+/>{% endif %} {% if page.meta_modified_time %}<meta
+  property="article:modified_time"
+  content="{{ page.meta_modified_time }}"
+/>{% endif %}
+<!-- END Facebook -->
+<!-- Twitter -->
+{% if page.meta_card %}
+<meta name="twitter:card" content="{{ page.meta_card }}" />
+{% else %}
+<meta name="twitter:card" content="summary" />
+{% endif %} {% if site.data.seo.meta_twitter_site %}
+<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
+{% endif %} {% if site.data.seo.meta_twitter_creator %}
+<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
+{% endif %} {% if page.meta_title %}<meta
+  property="twitter:title"
+  content="{{ page.meta_title }}"
+/>
+<meta property="twitter:image:alt" content="{{ page.meta_title }} Tagline" />
+{% else %}
+<meta property="twitter:title" content="{{ page.title }}" />
+<meta property="twitter:image:alt" content="{{ page.title }} Tagline" />
+{% endif %} {% if page.meta_img %}
+<meta property="twitter:image" content="{{ page.meta_img | absolute_url }}" />
+{% else if page.image %}
+<meta property="twitter:image" content="{{ page.image | absolute_url }}" />
+{% endif %} {% if page.meta_img %}
+<meta property="twitter:image:width" content="{{ page.meta_image_width }}" />{%
+endif %} {% if page.meta_img %}
+<meta
+  property="twitter:image:height"
+  content="{{ page.meta_image_height }}"
+/>{% endif %} {% if page.description %}
+<meta property="twitter:description" content="{{ page.description }}" />
+{% endif %}
+<!-- END Twitter -->
+<link rel="canonical" href="{{ page.url | escape }}" />
+
+<!-- <link
+  rel="icon"
+  href="{{
+    '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-32x32.png'
+      | relative_url
+  }}"
+  sizes="32x32"
+/>
+<link
+  rel="icon"
+  href="{{
+    '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-192x192.png'
+      | relative_url
+  }}"
+  sizes="192x192"
+/>
+<link
+  rel="apple-touch-icon"
+  href="{{
+    '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-180x180.png'
+      | relative_url
+  }}"
+/>
+<meta
+  name="msapplication-TileImage"
+  content="{{
+    '/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1-270x270.png'
+      | relative_url
+  }}"
+/> -->
