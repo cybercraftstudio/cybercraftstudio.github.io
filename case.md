@@ -1,8 +1,7 @@
 ---
-title: Cases | Cyber Craft
+title: Cases
 layout: cases
-description: Services
-
+description: Cases
 ---
 
 # Case Studies

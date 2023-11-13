@@ -1,0 +1,54 @@
+{% if include.recommended_insights != empty %}
+<section class="post-related pb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <div class="post-related">
+          <div class="cl-muted text-uppercase mb-3">
+            You might be interested
+          </div>
+
+          <div class="relatedPostsSlider swiper-container">
+            <div class="swiper-wrapper">
+              {% for recommended in include.recommended_insights %} {% for
+              insight in site.insight %} {% if insight.url == recommended %}
+              <div class="swiper-slide">
+                <article>
+                  <a
+                    href="{{ insight.url | relative_url }}"
+                    class="d-block media-box-rect img-cover mb-2 w-100"
+                  >
+                    <img
+                      class="lazyload lazy-fade"
+                      data-src="{{ insight.post_img | relative_url }}"
+                      alt="{{ insight.title }}"
+                    />
+                    <div class="resource-tile--badges">
+                      <span class="ss-badge ml-1">{{
+                        insight.category | escape
+                      }}</span>
+                    </div>
+                  </a>
+                  <div class="txt-ttl-5 cl-black">
+                    <a
+                      href="{{ insight.url | relative_url }}"
+                      class="d-block cl-black text-decoration-none"
+                    >
+                      {{ insight.title | escape }}
+                    </a>
+                  </div>
+                </article>
+              </div>
+
+              {% endif %} {% endfor %} {% endfor %}
+            </div>
+            <div
+              class="slider--dots relatedPostsSliderDots d-md-none text-center py-4"
+            ></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}

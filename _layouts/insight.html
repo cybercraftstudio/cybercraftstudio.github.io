@@ -1,0 +1,9 @@
+---
+layout: default
+bodyClass: "post-template-default single single-post postid-25124 single-format-standard"
+---
+
+{{ content }}
+{% if page.related_insights %}
+{% include insight_rec_engine.html recommended_insights = page.related_insights %}
+{% endif %}

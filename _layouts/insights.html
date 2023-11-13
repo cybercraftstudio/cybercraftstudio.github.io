@@ -1,0 +1,165 @@
+---
+layout: default
+bodyClass: "blog"
+---
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9">
+        <h1
+          class="txt-ttl-1 cl-black text-uppercase d-flex flex-wrap align-items-center"
+        >
+          {{ page.title }}
+          <a
+            class="filter-trigger collapsed ml-auto d-md-none"
+            href="#filter-sidebar"
+            data-toggle="collapse"
+            aria-expanded="false"
+            aria-controls="filter-sidebar"
+          >
+            Filter
+            <svg class="svg-icon"><use xlink:href="#icon-filter"></use></svg>
+          </a>
+        </h1>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="pb-5 py-md-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 mb-4 mb-md-0 mt-md-n3">
+        <aside
+          id="filter-sidebar"
+          class="collapse collapse-mob sticky-sidebar sticky-md pt-md-3"
+        >
+          <div class="tax-group mb-5">
+            <div class="txt-ttl-5 cl-black mb-3">Categories</div>
+            <ul class="list-reset">
+              <li class="mb-2">
+                <div class="ss-checkbox">
+                  <input
+                    name="category"
+                    value="article"
+                    id="category-article"
+                    type="checkbox"
+                  />
+                  <label for="category-article">Article</label>
+                </div>
+              </li>
+              <li class="mb-2">
+                <div class="ss-checkbox">
+                  <input
+                    name="category"
+                    value="news"
+                    id="category-news"
+                    type="checkbox"
+                  />
+                  <label for="category-news">News</label>
+                </div>
+              </li>
+              <li class="mb-2">
+                <div class="ss-checkbox">
+                  <input
+                    name="category"
+                    value="whitepaper"
+                    id="category-whitepaper"
+                    type="checkbox"
+                  />
+                  <label for="category-whitepaper">Whitepaper</label>
+                </div>
+              </li>
+              <li class="mb-2">
+                <div class="ss-checkbox">
+                  <input
+                    name="category"
+                    value="event"
+                    id="category-event"
+                    type="checkbox"
+                  />
+                  <label for="category-event">Event</label>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="d-block d-md-none text-center">
+            <button id="filterBtn" class="ss-btn ss-btn--main">Filter</button>
+            <hr class="ss-hr mt-4" />
+          </div>
+        </aside>
+      </div>
+
+      <div class="col-md-9 col-xl-8">
+        <div id="filterResults" class="mr-md-n4 mr-lg-0">
+          {% for insight in site.insight %}
+          <div class="mb-4">
+            <a
+              href="{{ insight.url | relative_url }}"
+              class="resource-tile bord-rad-2 d-block"
+            >
+              <div class="row no-gutters">
+                <div class="col-md-6">
+                  <div class="resource-tile--img img-cover h-100 d-block">
+                    <img
+                      class="lazyload lazy-fade"
+                      data-src="{{ insight.post_img | relative_url }}"
+                      alt="{{ insight.title }}"
+                    />
+                    <div class="resource-tile--badges">
+                      <span class="ss-badge ml-1">{{ insight.category }}</span>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-6">
+                  <div
+                    class="resource-tile--content font-title h-100 d-md-flex flex-wrap p-3 p-lg-4"
+                  >
+                    <div
+                      class="resource-tile--ttl txt-ttl-3 mb-1 mb-lg-3 cl-black h-limit-2 w-100"
+                    >
+                      {{ insight.title }}
+                    </div>
+
+                    <div class="w-100 mb-auto">
+                      <div class="resource-tile--excerpt cl-main">
+                        {{ insight.post_detail }}
+                      </div>
+                    </div>
+
+                    <div
+                      class="resource-tile--footer d-flex flex-wrap align-items-center w-100 pt-2 pt-lg-4 mt-auto"
+                    >
+                      <span class="cl-muted mr-auto"
+                        ><span class="span-reading-time rt-reading-time"
+                          ><span class="rt-label rt-prefix"></span>
+                          <span class="rt-time">
+                            {{ insight.post_reading_time }}</span
+                          >
+                          <span class="rt-label rt-postfix"></span
+                        ></span>
+                        min read</span
+                      >
+                      <span
+                        class="btn-link more-link cl-accent-2 font-weight-bold text-uppercase"
+                      >
+                        Read Post
+                        <svg class="svg-icon">
+                          <use xlink:href="#icon-more"></use>
+                        </svg>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          {% endfor %} {% include insight_pagination.html %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

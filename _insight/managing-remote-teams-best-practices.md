@@ -1,4 +1,24 @@
-
+---                      
+title: "Managing Remote Teams in 2023: Event Overview"
+description: "Deliver AI&#x2d;driven content personalization to your customers by leveraging data integration to boost revenue, improve customer experience and brand loyalty."
+quote: "Interact with your customers on a more personal level by leveraging AI-driven recommendations to deliver engaging, relevant content to your customers through multiple channels."
+post_img: "/images/uploads/sites/5/2022/12/2-news-cover-Managing-remote-teams-1.png"
+post_detail: "The Covid-19 pandemic opened businesses to a new-found
+                        concept of remote work that created opportunities for
+                        hiring beyond the borders and shifting the corporate..."
+post_reading_time: 5
+category: "Article"
+show_lets_meet_section: true
+weight: 4
+meta_img: "/images/uploads/sites/5/2019/09/cropped-apple-icon-60x60-1.png"
+meta_image_width: 512
+meta_image_height: 512
+meta_type: "article"
+meta_updated_time: "2021-10-29T16:07+00:00"
+meta_published_time: "2020-05-07T16:22+00:00"
+meta_modified_time: "2021-10-29T16:07+00:00"
+meta_card: "summary_large_image"
+---
 <!DOCTYPE html>
 <html lang="en-US" class="no-js has-announcement">
 

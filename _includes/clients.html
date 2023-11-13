@@ -12,12 +12,11 @@
 
     <div class="clientsSlider swiper-container overflow-visible">
       <div class="swiper-wrapper">
-          <div
+        <div
           data-aos="fade-up"
           data-aos-delay="350"
           class="client-slide swiper-slide p-3 p-md-0 h-auto d-inline-flex justify-content-center align-items-center"
-        >
-        </div>
+        ></div>
         {% assign clients = site.data.clients | sort: 'weight' %} {% for client
         in clients %}
         <div
@@ -33,7 +32,7 @@
               width="{{ client.image.width }}"
               height="{{ client.image.height }}"
               class="mw-100 lazyload lazy-fade m-0"
-              style="aspect-ratio: {{ client.image.aspect-ratio }}"
+              style="aspect-ratio: {{ client.image.aspect - ratio }}"
               data-src="{{ client.image.logo_url | relative_url }}"
               alt="{{ client.title }}"
             />

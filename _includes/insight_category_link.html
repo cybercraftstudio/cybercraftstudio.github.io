@@ -1,0 +1,21 @@
+{% if include.categories != empty %} •
+  {% for category in include.categories %}
+    {% assign no_comma = forloop.last %}
+    {% for insight in site.insight %}
+      {% if insight.type == "category" and insight.title == category %}
+        <a href="{{ insight.url | relative_url }}">{{ insight.title | escape }}</a>{% unless no_comma %},{% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
+
+{% if include.tags != empty %} •
+  {% for tag in include.tags %}
+    {% assign no_comma = forloop.last %}
+    {% for insight in site.insight %}
+      {% if insight.type == "tag" and insight.title == tag %}
+        <a href="{{ insight.url | relative_url }}">{{ insight.title | escape }}</a>{% unless no_comma %},{% endunless %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endif %}
